@@ -1,0 +1,2715 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: RentIt\n"
+"POT-Creation-Date: 2017-04-26 20:58+0300\n"
+"PO-Revision-Date: 2017-04-29 15:22+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: bg_BG\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid " Oops! The Page you requested was not found!rentit"
+msgstr "Страницата не е намерена"
+
+#: 404.php:25
+msgid " Back to Home"
+msgstr "Обратно към началото"
+
+#: archive-portfolio.php:13 assets/customizer.php:459
+#: taxonomy-portfolio_categories.php:19
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: archive-portfolio.php:27 taxonomy-portfolio_categories.php:37
+msgid "All"
+msgstr "Всички"
+
+#: assets/BFI_Thumb.php:416
+msgid "Image negate failed."
+msgstr "Действието беше неуспешно."
+
+#: assets/ajax-sent-mail.php:14
+msgid "No name entered"
+msgstr "Не е въведено име"
+
+#: assets/ajax-sent-mail.php:19
+msgid "No email entered"
+msgstr "Не е въведен email"
+
+#: assets/ajax-sent-mail.php:24
+msgid "No subject entered"
+msgstr "Не е въведен предмет"
+
+#: assets/ajax-sent-mail.php:39 woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr "Име"
+
+#: assets/ajax-sent-mail.php:43 woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: assets/ajax-sent-mail.php:47
+msgid "Subject"
+msgstr "Предмет"
+
+#: assets/ajax-sent-mail.php:51
+msgid "Message"
+msgstr "Съобщение"
+
+#: assets/ajax-sent-mail.php:70
+msgid "Contact Form Submitted!"
+msgstr "Контактната форма е изпратена!"
+
+#: assets/ajax-sent-mail.php:70
+msgid " We will be in touch soon"
+msgstr "Ще се свържем с Вас скоро"
+
+#: assets/ajax-sent-mail.php:73
+msgid "error"
+msgstr "грешка"
+
+#: assets/class-tgm-plugin-activation.php:333 assets/tgm.php:73
+msgid "Install Required Plugins"
+msgstr "Инсталирайте необходимите плъгини"
+
+#: assets/class-tgm-plugin-activation.php:334 assets/tgm.php:74
+msgid "Install Plugins"
+msgstr "Инсталирайте плъгините"
+
+#: assets/class-tgm-plugin-activation.php:335 assets/tgm.php:75
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Инсталиране на плъгин: %s"
+
+#: assets/class-tgm-plugin-activation.php:336 assets/tgm.php:76
+msgid "Something went wrong with the plugin API."
+msgstr "Нещо се случи с API на плъгина"
+
+#: assets/class-tgm-plugin-activation.php:338 assets/tgm.php:77
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Тази тема изисква следния плъгин: %1$s."
+msgstr[1] "Тази тема изисква следните плъгини: %1$s."
+
+#: assets/class-tgm-plugin-activation.php:343 assets/tgm.php:79
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Тази тема препоръчва следния плъгин: %1$s."
+msgstr[1] "Тази тема препоръчва следните плъгини: %1$s."
+
+#: assets/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Съжаляваме, но нямате нужните права, за да инсталирате плъгина %1$s."
+msgstr[1] ""
+"Съжаляваме, но нямате нужните права, за да инсталирате плъгините %1$s."
+
+#: assets/class-tgm-plugin-activation.php:353 assets/tgm.php:89
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Следния плъгин трябва да бъде актуализиран  до последната си версия, за да "
+"се осигури максимална съвместимост с тази тема: %1$s."
+msgstr[1] ""
+"Следните плъгини трябва да бъдат актуализирани до последната им версия, за "
+"да се осигури максимална съвместимост с тази тема: %1$s."
+
+#: assets/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Налична е актуализация за: %1$s."
+msgstr[1] "Налични са актуализации на следните плъгини: %1$s."
+
+#: assets/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+"Съжаляваме, но нямате нужните права, за да актуализирате плъгина %1$s."
+msgstr[1] ""
+"Съжаляваме, но нямате нужните права, за да актуализирате плъгините %1$s."
+
+#: assets/class-tgm-plugin-activation.php:368 assets/tgm.php:83
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следният необходим плъгин не е активен: %1$s."
+msgstr[1] "Следните необходими плъгини не са активни: %1$s."
+
+#: assets/class-tgm-plugin-activation.php:373 assets/tgm.php:85
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следният препоръчан плъгин не е активен: %1$s."
+msgstr[1] "Следните препоръчани плъгини не са активни: %1$s."
+
+#: assets/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "Съжаляваме, но нямате нужните права, за да активирате плъгина %1$s."
+msgstr[1] ""
+"Съжаляваме, но нямате нужните права, за да актуализирате плъгините %1$s."
+
+#: assets/class-tgm-plugin-activation.php:383 assets/tgm.php:93
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Стартирайте инсталирането на плъгина."
+msgstr[1] "Стартирайте инсталирането на плъгините."
+
+#: assets/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Стартирайте актуализацията на плъгина."
+msgstr[1] "Стартирайте актуализацията на плъгините."
+
+#: assets/class-tgm-plugin-activation.php:393 assets/tgm.php:94
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Стартирайте активирането на плъгина."
+msgstr[1] "Стартирайте активирането на плъгините."
+
+#: assets/class-tgm-plugin-activation.php:397 assets/tgm.php:95
+msgid "Return to Required Plugins Installer"
+msgstr "Върнете се към инсталатора на необходимите плъгини."
+
+#: assets/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Върнете се към таблото"
+
+#: assets/class-tgm-plugin-activation.php:399
+#: assets/class-tgm-plugin-activation.php:3029 assets/tgm.php:96
+msgid "Plugin activated successfully."
+msgstr "Плъгинът е активиран успешно."
+
+#: assets/class-tgm-plugin-activation.php:400
+#: assets/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следният плъгин беше активиран успешно:"
+msgstr[1] "Следните плъгини бяха инсталирани успешно:"
+
+#: assets/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Не е предприето действие. Плъгинът %1$s беше вече активен."
+
+#: assets/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плъгинът не е активиран. Необходима е по-нова версия на %s за тази тема. "
+"Моля, актуализирайте плъгина. "
+
+#: assets/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Всички плъгини са инсталирани и активирани успешно. %1$s"
+
+#: assets/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Игнорирай съобщението"
+
+#: assets/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Моля, свържете се с администратора на сайта за помощ."
+
+#: assets/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Този плъгин трябва да бъде актуализиран, за да бъде съвместим с Вашата тема."
+
+#: assets/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Необходима е актуализация"
+
+#: assets/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Задайте parent_slug променлива."
+
+#: assets/class-tgm-plugin-activation.php:828
+#: assets/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Обратно към Табло."
+
+#: assets/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Пакетът на плъгина не съдържа папка с желаното кратко име и преименуването "
+"беше неуспешно."
+
+#: assets/class-tgm-plugin-activation.php:935
+#: assets/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Моля, свържете се с автора на плъгина и поискайте да предостави плъгина си "
+"съгласно изискванията на WordPress."
+
+#: assets/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Пакетът на плъгина се състои от повече от един файл, но файловете не са "
+"обединени в папка."
+
+#: assets/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Изисква се"
+
+#: assets/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Препоръчано"
+
+#: assets/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress хранилище"
+
+#: assets/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Външен източник"
+
+#: assets/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Предварително подготвено"
+
+#: assets/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Не е инсталирано"
+
+#: assets/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Инсталирано, но не активирано"
+
+#: assets/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Активирано"
+
+#: assets/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Нужната актуализация не е налична"
+
+#: assets/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Необходима е актуализация"
+
+#: assets/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Препоръчва се актуализация"
+
+#: assets/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All (%s)"
+msgid_plural "All (%s)"
+msgstr[0] "Всички (%s)"
+msgstr[1] "Всички (%s)"
+
+#: assets/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install (%s)"
+msgid_plural "To Install (%s)"
+msgstr[0] "Да се инсталира (%s)"
+msgstr[1] "Да се инсталира (%s)"
+
+#: assets/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available (%s)"
+msgid_plural "Update Available (%s)"
+msgstr[0] "Налична е актуализация (%s)"
+msgstr[1] "Налична е актуализация (%s)"
+
+#: assets/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate (%s)"
+msgid_plural "To Activate (%s)"
+msgstr[0] "За активиране (%s)"
+msgstr[1] "За активиране (%s)"
+
+#: assets/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестен"
+
+#: assets/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Инсталирана версия:"
+
+#: assets/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Минимална необходима версия:"
+
+#: assets/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Налични версии:"
+
+#: assets/class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate."
+msgstr "Няма плъгини за инсталиране, актуализиране или активиране."
+
+#: assets/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Плъгин"
+
+#: assets/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Източник"
+
+#: assets/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Вид"
+
+#: assets/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Версия"
+
+#: assets/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Статус"
+
+#: assets/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Инсталирайте %2$s"
+
+#: assets/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Актуализирайте %2$s"
+
+#: assets/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Активирайте %2$s"
+
+#: assets/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Съобщение за актуализация от автора на плъгина:"
+
+#: assets/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Инсталация"
+
+#: assets/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Актуализация"
+
+#: assets/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Активация"
+
+#: assets/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не бяха избрани плъгини за инсталиране. Не е предприето действие."
+
+#: assets/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не бяха избрани плъгини за актуализиране. Не е предприето действие."
+
+#: assets/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "В момента няма налични плъгини за инсталиране."
+
+#: assets/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "В момента няма налични плъгини за актуализиране."
+
+#: assets/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"В момента няма налични плъгини за активиране. Не е предприето действие."
+
+#: assets/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "В момента няма налични плъгини за активиране."
+
+#: assets/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Неуспешно активиране на плъгина."
+
+#: assets/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Актуализиране на плъгин %1$s (%2$d/%3$d)"
+
+#: assets/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: %2$s."
+msgstr "Възникна грешка при инсталирането на %1$s: %2$s."
+
+#: assets/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Неуспешно инсталиране на %1$s"
+
+#: assets/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесът на инсталиране и активиране започва. Този процес понякога може да "
+"отнеме време, затова Ви молим да бъдете търпеливи."
+
+#: assets/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s е инсталиран и активиран успешно."
+
+#: assets/class-tgm-plugin-activation.php:3370
+#: assets/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Показване на подробностите"
+
+#: assets/class-tgm-plugin-activation.php:3370
+#: assets/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Скриване на подробностите"
+
+#: assets/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Всички инсталации и активации бяха приключени."
+
+#: assets/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Инсталиране и активиране на Плъгин  %1$s (%2$d/%3$d)"
+
+#: assets/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Инсталационният процес започва. Този процес понякога може да отнеме време, "
+"затова Ви молим да бъдете търпеливи."
+
+#: assets/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s бе инсталиран успешно."
+
+#: assets/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Всички инсталации са приключени."
+
+#: assets/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Инсталиране на плъгин %1$s (%2$d/%3$d)"
+
+#: assets/coment_walker.php:51
+msgid "Ago"
+msgstr "Преди"
+
+#: assets/coment_walker.php:77
+msgid "Edit this comment"
+msgstr "Редактирайте този коментар"
+
+#: assets/coment_walker.php:79
+msgid "Your comment is awaiting moderation."
+msgstr "Вашият коментар очаква одобрение."
+
+#: assets/customizer.php:12
+msgid "Blog sitings"
+msgstr "Настройки на блога"
+
+#: assets/customizer.php:13 assets/customizer.php:18 assets/customizer.php:209
+msgid "Settings of the Blog"
+msgstr "Настройки на блога"
+
+#: assets/customizer.php:17
+msgid "Shop sitings"
+msgstr "Настройки на магазина"
+
+#: assets/customizer.php:26 assets/customizer.php:34 assets/customizer.php:519
+#: assets/customizer.php:528
+msgid "Location sidebar"
+msgstr "Място на сайдбара"
+
+#: assets/customizer.php:39 assets/customizer.php:533
+msgid "Sidebar Left"
+msgstr "Сайдбар в ляво"
+
+#: assets/customizer.php:40 assets/customizer.php:534
+msgid "Sidebar Right"
+msgstr "Сайдбар в дясно"
+
+#: assets/customizer.php:48 partials/related-post.php:86
+msgid "Related Posts"
+msgstr "Препоръчани публикации"
+
+#: assets/customizer.php:56
+msgid "Enable Related Posts?"
+msgstr "Включете Препоръчани публикации?"
+
+#: assets/customizer.php:67
+msgid "About the author"
+msgstr "За автора"
+
+#: assets/customizer.php:75
+msgid "Enable About the author?"
+msgstr "Включете За автора?"
+
+#: assets/customizer.php:86
+msgid "Sotial networks"
+msgstr "Социални мрежи"
+
+#: assets/customizer.php:88
+msgid "Enter url desired social networks so that they appear on the site"
+msgstr ""
+"Въведете линк към желаните социални мрежи, за да бъдат показани на сайта"
+
+#: assets/customizer.php:99
+msgid "Insert Social shortcode "
+msgstr "Поставете шорткод за социални мрежи"
+
+#: assets/customizer.php:101
+msgid "its show in header"
+msgstr "показва се в header"
+
+#: assets/customizer.php:113
+msgid "Google + url"
+msgstr ""
+
+#: assets/customizer.php:123
+msgid "Facebook  url"
+msgstr ""
+
+#: assets/customizer.php:132 footer.php:38 footer.php:97
+msgid "PINTEREST"
+msgstr ""
+
+#: assets/customizer.php:141 assets/customizer.php:152
+msgid "Twitter url"
+msgstr ""
+
+#: assets/customizer.php:163
+msgid "Twitter APP CONSUMER KEY"
+msgstr "Twitter APP КЛИЕНТСИ КЛЮЧ"
+
+#: assets/customizer.php:174
+msgid "Twitter APP CONSUMER SECRET"
+msgstr "Twitter APP КЛИЕНТСКИ ТАЕН"
+
+#: assets/customizer.php:186
+msgid "Facebook App ID (get it developers.facebook.com)"
+msgstr "Facebook App ID (вземете го от тук developers.facebook.com)"
+
+#: assets/customizer.php:197
+msgid "Facebook App Secret (get it developers.facebook.com)"
+msgstr "Facebook App Таен ключ (вземете го от тук developers.facebook.com)"
+
+#: assets/customizer.php:207
+msgid "Fonts"
+msgstr "Шрифтове"
+
+#: assets/customizer.php:214
+msgid "Fonts for h1 h2 h3 h4 h5 h6"
+msgstr "Шрифтове за h1 h2 h3 h4 h5 h6"
+
+#: assets/customizer.php:217 assets/customizer.php:243
+#: assets/customizer.php:268
+msgid "Enter the url font google and font name"
+msgstr "Въведете линк към Google шрифт и име на шрифта"
+
+#: assets/customizer.php:222 assets/customizer.php:248
+#: assets/customizer.php:273
+msgid "url google fonts"
+msgstr "линк към Google шрифтове"
+
+#: assets/customizer.php:231 assets/customizer.php:257
+#: assets/customizer.php:282
+msgid "name google fonts"
+msgstr "избройте Google шрифтове"
+
+#: assets/customizer.php:240
+msgid "Fonts  (default Raleway) "
+msgstr "Шрифтове (Raleway по подразбиране)"
+
+#: assets/customizer.php:265
+msgid "Fonts for body (default Roboto) "
+msgstr "Шрифтове за тялото (Roboto по подразбиране)"
+
+#: assets/customizer.php:293
+msgid "Mailchimp"
+msgstr ""
+
+#: assets/customizer.php:295
+msgid "Specify api key and ID list"
+msgstr "Посочете API ключ и ID списък"
+
+#: assets/customizer.php:300
+msgid "API key"
+msgstr "API ключ"
+
+#: assets/customizer.php:309
+msgid "ID list"
+msgstr "ID списък"
+
+#: assets/customizer.php:320 assets/customizer.php:327
+msgid "Enable RTL (beta)"
+msgstr "Включете RTL (beta)"
+
+#: assets/customizer.php:337 assets/customizer.php:345
+msgid "Logo"
+msgstr "Лого"
+
+#: assets/customizer.php:339
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr ""
+"Качете лого, за да замените Името на сайта и описанието по подразбиране в "
+"header частта"
+
+#: assets/customizer.php:359
+msgid "Map style"
+msgstr "Стил на картата"
+
+#: assets/customizer.php:361
+msgid ""
+"Map style JSON config (see https://snazzymaps.com, http://www.mapstylr.com/"
+"showcase/ )"
+msgstr ""
+"Стил на КАРТАТА JSON config (see https://snazzymaps.com, http://www.mapstylr."
+"com/showcase/ )"
+
+#: assets/customizer.php:364
+msgid "stylemap_json"
+msgstr ""
+
+#: assets/customizer.php:375
+msgid "Coordinates map"
+msgstr "Координати на картата"
+
+#: assets/customizer.php:382
+msgid "Zoom map"
+msgstr "Увеличение на картата"
+
+#: assets/customizer.php:393
+msgid "Other settings"
+msgstr "Други настройки"
+
+#: assets/customizer.php:403
+#: inc/rentit-booking/includes/rentit-rental-panels.php:284
+msgid "Phone"
+msgstr "Телефон"
+
+#: assets/customizer.php:412
+msgid "Helping Center text"
+msgstr "Текст на Отдела за Помощ"
+
+#: assets/customizer.php:421
+msgid "Url to Helping Center"
+msgstr "Линк към Отдела за помощ"
+
+#: assets/customizer.php:432
+msgid "Color theme"
+msgstr "Цвят на темата"
+
+#: assets/customizer.php:445
+msgid "Select color site"
+msgstr "Изберете цвят на сайта"
+
+#: assets/customizer.php:469
+msgid "Select type of portfolio"
+msgstr "Изберете вид на портфолиото"
+
+#: assets/customizer.php:474
+msgid "standard"
+msgstr "стандартно"
+
+#: assets/customizer.php:475
+msgid "4 col"
+msgstr "4 колони"
+
+#: assets/customizer.php:476
+msgid "Description under the picture"
+msgstr "Описание под изображението"
+
+#: assets/customizer.php:485 assets/widgets.php:1894 assets/widgets.php:1934
+msgid "Filter"
+msgstr "Филтър"
+
+#: assets/customizer.php:496
+msgid "min Price in slider"
+msgstr "минимална цена в слайдера"
+
+#: assets/customizer.php:506
+msgid "max Price in slider"
+msgstr "максимална цена в слайдера"
+
+#: assets/customizer.php:544
+msgid "COMING SOON"
+msgstr "ОЧАКВАЙТЕ СКОРО"
+
+#: assets/customizer.php:554
+msgid "Enable COMING SOON  mode ?"
+msgstr "Включете режим ОЧАКВАЙТЕ СКОРО?"
+
+#: assets/customizer.php:566
+msgid "Enter Year (for example 2018)"
+msgstr "Въведете година (например, 2018)"
+
+#: assets/customizer.php:577
+msgid "Enter month (for example 12)"
+msgstr "Въведете месец (например, 12)"
+
+#: assets/customizer.php:588
+msgid "Enter day (for example 25)"
+msgstr "Въведете ден (например, 25)"
+
+#: assets/customizer.php:601
+msgid "Performans"
+msgstr "Изпълнители"
+
+#: assets/customizer.php:611
+msgid "Enable preloader ?"
+msgstr "Включете предварителното зареждане?"
+
+#: assets/customizer.php:625
+msgid "Footer"
+msgstr ""
+
+#: assets/customizer.php:635
+msgid "Footer copyright"
+msgstr "Запазени права footer"
+
+#: assets/customizer.php:648 assets/customizer.php:658
+msgid "Contact form shortcode"
+msgstr "Шорткод за контактна форма"
+
+#: assets/mailchimp.php:11
+msgid "You have incorrect API key  "
+msgstr "Имате неверен API ключ"
+
+#: assets/mailchimp.php:17
+msgid "You have incorrect dc "
+msgstr "Имате невярно dc"
+
+#: assets/mailchimp.php:23
+msgid "You have incorrect id list "
+msgstr "Имате неверен списък с номера на елементи"
+
+#: assets/mailchimp.php:40
+msgid "Email Submitted! You subscribe as  "
+msgstr "Вашият Email беше изпратен! Вие се абонирахте като "
+
+#: assets/mega_menu.php:66 assets/mega_menu.php:72
+msgid "Color"
+msgstr "Цвят"
+
+#: assets/mega_menu.php:78
+msgid "checkbox"
+msgstr "кутийка за отбелязване"
+
+#: assets/mega_menu.php:178
+msgid "Enable megamenu?"
+msgstr "Включете голямо меню?"
+
+#: assets/metaboxes.php:11
+msgid "Page sittings"
+msgstr "Настройки на страницата"
+
+#: assets/metaboxes.php:18 single-portfolio.php:44
+msgid "Client"
+msgstr "Клиент"
+
+#: assets/metaboxes.php:92
+msgid "Small footer"
+msgstr "Малък footer"
+
+#: assets/metaboxes.php:99
+msgid "breadcrumbs aling"
+msgstr "ориентация на breadcrumbs навигацията"
+
+#: assets/metaboxes.php:105
+msgid "right"
+msgstr "дясно"
+
+#: assets/metaboxes.php:107
+msgid "center"
+msgstr "център"
+
+#: assets/metaboxes.php:109
+msgid "left"
+msgstr "ляво"
+
+#: assets/metaboxes.php:113
+msgid "Shortcode for footer"
+msgstr "Шорткод за footer"
+
+#: assets/page_map_get_marker.php:89
+#: inc/rentit-booking/includes/rentit-rental-panels.php:743
+#: partials/car-list1.php:38 woocommerce/content-product.php:102
+msgid "Auto"
+msgstr "Автоматично"
+
+#: assets/page_map_get_marker.php:90
+#: inc/rentit-booking/includes/rentit-rental-panels.php:733
+#: inc/rentit-booking/includes/rentit-rental-panels.php:734
+#: partials/car-list1.php:35 woocommerce/content-product.php:99
+msgid "Diesel"
+msgstr "Дизел"
+
+#: assets/page_map_get_marker.php:92
+msgid "Rent It"
+msgstr "Наемете"
+
+#: assets/register_auth.php:42
+msgid "Invalid email address"
+msgstr "Невалиден email адрес"
+
+#: assets/register_auth.php:48
+msgid "password should be longer than 8 characters"
+msgstr "паролата трябва да бъде по-дълга от 8 символа"
+
+#: assets/register_auth.php:52
+msgid "user already exists, try a different login"
+msgstr "потребителят вече съществува, моля, опитайте друго име"
+
+#: assets/tgm.php:81
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Съжаляваме, но нямате нужните права, за да инсталирате плъгина %s . Свържете "
+"се с администратора на сайта за помощ при инсталирането на този плъгин."
+msgstr[1] ""
+"Съжаляваме, но нямате нужните права, за да инсталирате плъгините %s . "
+"Свържете се с администратора на сайта за помощ при инсталирането на тези "
+"плъгини."
+
+#: assets/tgm.php:87
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Съжаляваме, но нямате нужните права, за да активирате плъгина %s . Свържете "
+"се с администратора на сайта за помощ при активирането на този плъгин."
+msgstr[1] ""
+"Съжаляваме, но нямате нужните права, за да активирате плъгините %s . "
+"Свържете се с администратора на сайта за помощ при активирането на плъгините."
+
+#: assets/tgm.php:91
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Съжаляваме, но нямате нужните права, за да актуализирате плъгина %s . "
+"Свържете се с администратора на сайта за помощ при актуализирането на "
+"плъгина."
+msgstr[1] ""
+"Съжаляваме, но нямате нужните права, за да актуализирате плъгините %s . "
+"Свържете се с администратора на сайта за помощ при актуализирането на "
+"плъгините."
+
+#: assets/tgm.php:97
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Всички плъгини са инсталирани и активирани успешно. %s"
+
+#: assets/wc_CustomData.php:92 woocommerce/content-single-product.php:178
+msgid "Free"
+msgstr "Безплатно"
+
+#: assets/wc_CustomData.php:96
+#: inc/rentit-booking/includes/html-resources-blank.php:17
+#: inc/rentit-booking/includes/html-resources.php:17
+#: woocommerce/cart/cart-totals.php:94 woocommerce/cart/cart-totals.php:95
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:118
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/checkout/review-order.php:97
+#: woocommerce/content-single-product.php:184
+#: woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr "Общо"
+
+#: assets/wc_CustomData.php:100
+#: inc/rentit-booking/includes/html-resources-blank.php:18
+#: inc/rentit-booking/includes/html-resources.php:18
+#: woocommerce/content-single-product.php:188
+msgid "Included"
+msgstr "Включително"
+
+#: assets/wc_CustomData.php:289
+msgid "Rent data"
+msgstr "Данни за наемане"
+
+#: assets/wc_CustomData.php:290
+msgid "Start"
+msgstr "Начало"
+
+#: assets/wc_CustomData.php:290
+msgid "End"
+msgstr "Край"
+
+#: assets/wc_CustomData.php:291 assets/wc_CustomData.php:335
+#: assets/widgets.php:1726 assets/widgets.php:2126 template-map.php:165
+#: woocommerce/content-single-product.php:302
+msgid "Picking Up Location"
+msgstr "Място на вземане"
+
+#: assets/wc_CustomData.php:292 assets/wc_CustomData.php:336
+#: assets/widgets.php:1745 woocommerce/content-single-product.php:340
+msgid "Dropping Off Location"
+msgstr "Място на връщане"
+
+#: assets/widgets.php:49
+msgid "Rent It Search"
+msgstr "Търсене"
+
+#: assets/widgets.php:50
+msgid "It displays a Search form"
+msgstr "Показва форма за търсене"
+
+#: assets/widgets.php:67 assets/widgets.php:152 assets/widgets.php:301
+#: assets/widgets.php:463 assets/widgets.php:611 assets/widgets.php:739
+#: assets/widgets.php:860 assets/widgets.php:997 assets/widgets.php:1136
+#: assets/widgets.php:1342 assets/widgets.php:1400 assets/widgets.php:1567
+#: assets/widgets.php:1680 assets/widgets.php:1903 assets/widgets.php:2031
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: assets/widgets.php:96 assets/widgets.php:116 searchform.php:6
+msgid "Search"
+msgstr "Търсене"
+
+#: assets/widgets.php:134
+msgid "Rent It CATEGORIES"
+msgstr "Категории"
+
+#: assets/widgets.php:135
+msgid "It displays a Categories list "
+msgstr "Показва списък с Категории"
+
+#: assets/widgets.php:159 assets/widgets.php:270
+msgid "CATEGORIES"
+msgstr "КАТЕГОРИИ"
+
+#: assets/widgets.php:180
+msgid "Categories"
+msgstr "Категории"
+
+#: assets/widgets.php:282
+msgid "Rent It  Tweets"
+msgstr ""
+
+#: assets/widgets.php:283
+msgid "It displays a list of tweets"
+msgstr "Показва списък с tweets"
+
+#: assets/widgets.php:285 assets/widgets.php:1120 assets/widgets.php:1376
+msgid "Rent It Tweets"
+msgstr ""
+
+#: assets/widgets.php:310
+msgid "Name:"
+msgstr "Име:"
+
+#: assets/widgets.php:319
+msgid "How many show Tweets?"
+msgstr "Колко Tweets  да се показват?"
+
+#: assets/widgets.php:348
+msgid "TWEETS"
+msgstr ""
+
+#: assets/widgets.php:411 woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr "преди"
+
+#: assets/widgets.php:445
+msgid "Rent It  ARCHIVES"
+msgstr "Rent It АРХИВИ"
+
+#: assets/widgets.php:446
+msgid "It displays a list of ARCHIVES"
+msgstr "Показва списък с АРХИВИ"
+
+#: assets/widgets.php:448
+msgid "Rent It ARCHIVES"
+msgstr "Rent It АРХИВИ"
+
+#: assets/widgets.php:469
+msgid "How show post in months?"
+msgstr "Как да се показва публикацията по месеци?"
+
+#: assets/widgets.php:487
+msgid "archives"
+msgstr "архиви"
+
+#: assets/widgets.php:492 assets/widgets.php:669 assets/widgets.php:772
+msgid "Archives"
+msgstr "Архиви"
+
+#: assets/widgets.php:584 assets/widgets.php:587
+msgid "Rent It Helping Center"
+msgstr "Rent It Отдел за помощ"
+
+#: assets/widgets.php:585
+msgid "It displays a Helping Center"
+msgstr "Показва Отдел за помощ"
+
+#: assets/widgets.php:600
+msgid " HELPING CENTER"
+msgstr "Информация"
+
+#: assets/widgets.php:601 assets/widgets.php:660
+msgid ""
+"Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec "
+"eros."
+msgstr ""
+
+#: assets/widgets.php:618
+msgid "Text:"
+msgstr "Текст:"
+
+#: assets/widgets.php:627
+msgid "Phone number"
+msgstr "Тел. номер"
+
+#: assets/widgets.php:635
+msgid "email:"
+msgstr ""
+
+#: assets/widgets.php:641
+msgid "url:"
+msgstr ""
+
+#: assets/widgets.php:659
+msgid "HELPING CENTER"
+msgstr "ИНФОРМАЦИЯ"
+
+#: assets/widgets.php:687
+msgid "Support Center"
+msgstr "Поддръжка"
+
+#: assets/widgets.php:714 assets/widgets.php:717
+msgid "Rent It TESTIMONIALS"
+msgstr "Rent It ОТЗИВИ"
+
+#: assets/widgets.php:715
+msgid "It displays a TESTIMONIALS"
+msgstr "Показва ОТЗИВИ"
+
+#: assets/widgets.php:730 assets/widgets.php:765
+msgid "TESTIMONIALS"
+msgstr "ОТЗИВИ"
+
+#: assets/widgets.php:746
+msgid "How many comments to show?"
+msgstr "Колко коментара да бъдат показвани?"
+
+#: assets/widgets.php:809
+msgid "Co- founder at Rent It"
+msgstr "Съосновате на Rent It"
+
+#: assets/widgets.php:837 assets/widgets.php:840
+msgid "Rent It TAG"
+msgstr "Rent It ТАГ"
+
+#: assets/widgets.php:838
+msgid "It displays a list of TAG"
+msgstr "Показва списък с ТАГОВЕ"
+
+#: assets/widgets.php:867
+msgid "Select type tag"
+msgstr "Изберете таг на типа"
+
+#: assets/widgets.php:871
+msgid "Post tags"
+msgstr "Тагове на публикации"
+
+#: assets/widgets.php:875
+msgid "Product tags"
+msgstr "Тагове на продукти"
+
+#: assets/widgets.php:893
+msgid "TAGS"
+msgstr "ТАГОВЕ"
+
+#: assets/widgets.php:901
+msgid "Tags"
+msgstr "Тагове"
+
+#: assets/widgets.php:974 assets/widgets.php:977
+msgid "Rent It Flickr Images"
+msgstr "Rent It Flickr Изображения"
+
+#: assets/widgets.php:975
+msgid "It displays a list of Flickr Images"
+msgstr "Показва списък с Flickr изображения "
+
+#: assets/widgets.php:989 assets/widgets.php:1032 assets/widgets.php:1041
+#: assets/widgets.php:1094 assets/widgets.php:1098
+msgid "FLICKR IMAGES"
+msgstr "FLICKR ИЗОБРАЖЕНИЯ"
+
+#: assets/widgets.php:1004
+msgid "How many show images? (max 10)"
+msgstr "Колко изображения да се показват? (максимално 10)"
+
+#: assets/widgets.php:1012
+msgid "user id fliker"
+msgstr "ид на потребител на fliker"
+
+#: assets/widgets.php:1117
+msgid "Rent It ABOUT_US"
+msgstr "Rent It ЗА НАС"
+
+#: assets/widgets.php:1118
+msgid "It displays ABOUT_US"
+msgstr "Показва ЗА НАС"
+
+#: assets/widgets.php:1145 assets/widgets.php:1409
+msgid "text:"
+msgstr "текст:"
+
+#: assets/widgets.php:1156
+msgid "Show social network link?"
+msgstr "Покажи връзка към социални мрежи?"
+
+#: assets/widgets.php:1179
+msgid "ABOUT US"
+msgstr "ЗА НАС"
+
+#: assets/widgets.php:1235 assets/widgets.php:1238
+msgid "Rent It Menu"
+msgstr "Rent It Меню"
+
+#: assets/widgets.php:1236
+msgid "It displays Menu"
+msgstr "Показва Меню."
+
+#: assets/widgets.php:1335
+msgid "No menus have been created yet."
+msgstr "Все още няма създадени менюта."
+
+#: assets/widgets.php:1335
+msgid "Create some"
+msgstr "Създайте"
+
+#: assets/widgets.php:1335
+#, php-format
+msgid "<a href=\"%s\">"
+msgstr ""
+
+#: assets/widgets.php:1350
+msgid "Select Menu:"
+msgstr "Избери меню:"
+
+#: assets/widgets.php:1353
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Избери &mdash;"
+
+#: assets/widgets.php:1373
+msgid "Rent It NEWS LETTER"
+msgstr "Rent It БЮЛЕТИН"
+
+#: assets/widgets.php:1374
+msgid "It displays NEWS LETTER"
+msgstr "Показва БЮЛЕТИН"
+
+#: assets/widgets.php:1389 assets/widgets.php:1450
+msgid "NEWS LETTER"
+msgstr "БЮЛЕТИН"
+
+#: assets/widgets.php:1391 assets/widgets.php:1452 assets/widgets.php:1591
+msgid "Enter Your Mail and Get $10 Cash"
+msgstr "Въведете своя Email и вземете Бонус $10"
+
+#: assets/widgets.php:1392 assets/widgets.php:1453 assets/widgets.php:1592
+msgid "Subscribe"
+msgstr "Абонирайте се"
+
+#: assets/widgets.php:1418
+msgid "Text placeholder:"
+msgstr "Упътващ текст:"
+
+#: assets/widgets.php:1427
+msgid "Text button:"
+msgstr "Текстов бутон:"
+
+#: assets/widgets.php:1542 assets/widgets.php:1545
+msgid "Rent It ITEM TAGS"
+msgstr "Renti It ТАГОВЕ НА ЕЛЕМЕНТИ"
+
+#: assets/widgets.php:1543
+msgid "It displays ITEM TAGS"
+msgstr "Показва Тагове на елементи"
+
+#: assets/widgets.php:1558 assets/widgets.php:1589
+msgid "ITEM TAGS"
+msgstr "ТАГОВЕ НА ПРОДУКТИ"
+
+#: assets/widgets.php:1655
+msgid "Rent It FIND BEST RENTAL CAR"
+msgstr "Rent It НАМЕРИ НАЙ-ДОБРАТА КОЛА ПОД НАЕМ"
+
+#: assets/widgets.php:1656
+msgid "It displays Filter BEST RENTAL CAR"
+msgstr "Показва Филтър НАЙ-ДОБРА КОЛА ПОД НАЕМ"
+
+#: assets/widgets.php:1671 assets/widgets.php:1702
+msgid "FIND BEST RENTAL CAR"
+msgstr "НАМЕРЕТЕ НАЙ-ДОБРАТА КОЛА ПОД НАЕМ"
+
+#: assets/widgets.php:1729 assets/widgets.php:1748 template-map.php:169
+#: template-map.php:182 woocommerce/content-single-product.php:305
+#: woocommerce/content-single-product.php:344
+msgid "Airport or Anywhere"
+msgstr "Летище или друго място"
+
+#: assets/widgets.php:1763
+msgid " Picking Up Date"
+msgstr "Дата на вземане"
+
+#: assets/widgets.php:1766 template-map.php:197 template-map.php:208
+#: woocommerce/content-single-product.php:383
+#: woocommerce/content-single-product.php:397
+msgid "dd/mm/yyyy"
+msgstr "дд/мм/гг"
+
+#: assets/widgets.php:1777
+msgid "Select type"
+msgstr "Изберете вид"
+
+#: assets/widgets.php:1796 assets/widgets.php:1832
+msgid "Select"
+msgstr "Изберете"
+
+#: assets/widgets.php:1813
+msgid "Select Category"
+msgstr "Изберете категория"
+
+#: assets/widgets.php:1877
+msgid "Rent IT PRICE filter"
+msgstr "Rent It ФИЛТЪР ПО ЦЕНА"
+
+#: assets/widgets.php:1878
+msgid "It displays Filter price"
+msgstr "Показва Филтър по цена"
+
+#: assets/widgets.php:1893 assets/widgets.php:1933
+msgid "PRICE"
+msgstr "ЦЕНА"
+
+#: assets/widgets.php:1912
+msgid "text_button:"
+msgstr ""
+
+#: assets/widgets.php:2005
+msgid "Rent IT DETAIL RESERVATION"
+msgstr "Rent It ПОДРОБНОСТИ ЗА РЕЗЕРВАЦИЯ"
+
+#: assets/widgets.php:2006
+msgid "It displays DETAIL RESERVATION"
+msgstr "Показва ПОДРОБНОСТИ ЗА РЕЗЕРВАЦИЯ"
+
+#: assets/widgets.php:2021 assets/widgets.php:2052
+msgid "DETAIL RESERVATION"
+msgstr "ПОДРОБНОСТИ ЗА РЕЗЕРВАЦИЯ"
+
+#: assets/widgets.php:2137 assets/widgets.php:2147
+msgid "From"
+msgstr "От"
+
+#: assets/widgets.php:2139
+msgid "Droping Off Location"
+msgstr "Място на връщане"
+
+#: assets/widgets.php:2160
+msgid "You have not selected any car..."
+msgstr "Не сте избрали кола..."
+
+#: assets/widgets.php:2189
+msgid "Rent IT Cars Tab"
+msgstr "Rent It Таб с коли"
+
+#: assets/widgets.php:2190
+msgid "It displays product"
+msgstr "Показва продукт"
+
+#: assets/widgets.php:2205 assets/widgets.php:2258 assets/widgets.php:2401
+msgid "View More"
+msgstr "Още"
+
+#: assets/widgets.php:2218
+msgid "How showas items?"
+msgstr "Как да се показват елементите?"
+
+#: assets/widgets.php:2227
+msgid "Insert url View More "
+msgstr "Поставете режим на изглед на url"
+
+#: assets/widgets.php:2236
+msgid "View More text"
+msgstr "Още текст"
+
+#: assets/widgets.php:2274
+msgid "Top"
+msgstr "Горе"
+
+#: assets/widgets.php:2278
+msgid "Sale Off"
+msgstr "Разпродажба"
+
+#: category.php:11 template-blog.php:14
+msgid "Blog"
+msgstr "Блог"
+
+#: category.php:15 functions.php:846 page.php:16 single.php:21
+#: taxonomy-portfolio_categories.php:23 template-blog.php:18
+#: template-fullwidth-breadcrumb.php:21 template-login.php:17
+msgid "Home"
+msgstr "Начало"
+
+#: comments.php:22 page.php:44 single.php:88
+msgid "Comments"
+msgstr "Коментари"
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr "Не са разрешени коментари."
+
+#: comments.php:48
+msgid "Submit Your Comment"
+msgstr "Изпращане на коментар"
+
+#: comments.php:62 comments.php:63
+msgid "Your name and surname"
+msgstr "Вашите име и презиме"
+
+#: comments.php:66 comments.php:67
+msgid "Your email adress"
+msgstr "Вашият email"
+
+#: comments.php:71 comments.php:73
+msgid "Your message"
+msgstr "Вашето съобщение"
+
+#: comments.php:80
+msgid "Cancel reply"
+msgstr "Отказване на отговора"
+
+#: comments.php:81
+msgid "Post Comment"
+msgstr "Публикуване на коментар"
+
+#: comments.php:85
+msgid "Send Commentrentit"
+msgstr "Изпращане на коментар"
+
+#: content-gallery.php:34 content-image.php:13 content-quote.php:11
+#: content-standard.php:31 content-video.php:37 content.php:71
+#: woocommerce/content-single-product.php:595
+#: woocommerce/content-single-product.php:612
+msgid "Read More"
+msgstr "Прочети още"
+
+#: content.php:22
+msgid "Read more"
+msgstr "Прочети още"
+
+#: footer.php:26 footer.php:85
+msgid "FACEBOOK"
+msgstr ""
+
+#: footer.php:32 footer.php:91
+msgid "TWITTER"
+msgstr ""
+
+#: footer.php:44 footer.php:103
+msgid "google"
+msgstr ""
+
+#: footer.php:55 footer.php:114
+msgid ""
+" &copy; 2015 Rent It &#8212; An One Page Rental Car Theme made with passion "
+"by\n"
+"                                jThemes Studio1"
+msgstr ""
+" &copy; 2015 Rent It &#8212; An One Page Rental Car Theme made with passion "
+"by\n"
+"                                jThemes Studio1"
+
+#: functions.php:70
+msgid "Header menu"
+msgstr "Хедър меню"
+
+#: functions.php:225
+msgid "sidebar"
+msgstr "сайдбар"
+
+#: functions.php:233
+msgid "sidebar shop"
+msgstr "сайдбар магазин"
+
+#: functions.php:241
+msgid "sidebar booking "
+msgstr "сайдбар при наемане"
+
+#: functions.php:249
+msgid "sidebar page"
+msgstr "сайдбар на страница"
+
+#: functions.php:257
+msgid "Footer area"
+msgstr "Футър част"
+
+#: functions.php:357
+msgid "Comment is empty"
+msgstr "Коментарът е празен"
+
+#: functions.php:361
+msgid "Comment more than 200 characters"
+msgstr "Коментарът е повече от 200 символа"
+
+#: functions.php:540
+msgid "Enter the place name"
+msgstr "Въведете име на мястото"
+
+#: functions.php:601
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "на"
+
+#: functions.php:710 functions.php:1543
+msgid "Previous"
+msgstr "Предишна"
+
+#: functions.php:711 functions.php:1544
+msgid "Next"
+msgstr "Следваща"
+
+#: functions.php:826
+msgid "Start from"
+msgstr "От"
+
+#: functions.php:829
+msgid " /per day"
+msgstr "/на ден"
+
+#: functions.php:1358
+msgid "Please provide drop-in location."
+msgstr "Моля, посочете място на вземане."
+
+#: functions.php:1363
+msgid "Please provide correct drop-in location."
+msgstr "Моля, посочете вярно място на вземане."
+
+#: functions.php:1369
+msgid "Please provide drop-in date."
+msgstr "Моля, посочете вярна дата на вземане."
+
+#: functions.php:1376
+msgid "Please provide drop-off location."
+msgstr "Моля, посочете място на връщане."
+
+#: functions.php:1381
+msgid "Please provide correct drop-off location."
+msgstr "Моля, посочете вярно място на връщане."
+
+#: functions.php:1387
+msgid "Please provide drop-off date."
+msgstr "Моля, посочете дата на връщане."
+
+#: header.php:27 template-coming-soon.php:36 template-map.php:33
+msgid "Loading"
+msgstr "Зареждане"
+
+#: inc/rentit-booking/class-rentit-booking-admin.php:50
+msgid "Car rental product"
+msgstr "Продукт за наемане"
+
+#: inc/rentit-booking/includes/html-car-locations-blank.php:5
+#: inc/rentit-booking/includes/html-car-locations-blank.php:8
+#: inc/rentit-booking/includes/html-car-locations.php:5
+#: inc/rentit-booking/includes/html-car-locations.php:15
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/rentit-booking/includes/html-car-locations-blank.php:10
+#: inc/rentit-booking/includes/html-car-locations.php:21
+#: inc/rentit-booking/includes/html-resources-blank.php:28
+#: inc/rentit-booking/includes/html-resources.php:32
+msgid "x"
+msgstr ""
+
+#: inc/rentit-booking/includes/html-resources-blank.php:3
+#: inc/rentit-booking/includes/html-resources.php:3
+#: inc/rentit-booking/includes/rentit-rental-panels.php:678
+msgid "Item name"
+msgstr "Име на продукта"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:6
+#: inc/rentit-booking/includes/html-resources.php:6
+msgid "Qty"
+msgstr "Количество"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:9
+#: inc/rentit-booking/includes/html-resources.php:9
+msgid "Cost"
+msgstr "Цена"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:15
+#: inc/rentit-booking/includes/html-resources.php:15
+msgid "Hour(s)"
+msgstr "Час(ове)"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:16
+#: inc/rentit-booking/includes/html-resources.php:16
+msgid "Day(s)"
+msgstr "Ден(дни)"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:24
+#: inc/rentit-booking/includes/html-resources.php:28
+msgid "No"
+msgstr "Не"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:25
+#: inc/rentit-booking/includes/html-resources.php:29
+msgid "Yes"
+msgstr "Да"
+
+#: inc/rentit-booking/includes/rentit-general-panel.php:22
+msgid "Minimum duration"
+msgstr "Минимална продължителност"
+
+#: inc/rentit-booking/includes/rentit-general-panel.php:30
+msgid "Maximum duration"
+msgstr "Максимална продължителност"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:14
+msgid "Max rental per block"
+msgstr "Максимално наемане на всеки"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:16
+msgid "Amount of maximum rental for each block."
+msgstr "Възможно максимално наемане за всеки."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:23
+msgid "Minimum drop in"
+msgstr "Минимално вземане"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:26
+msgid "Min"
+msgstr ""
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:34
+#: inc/rentit-booking/includes/rentit-rental-panels.php:56
+msgid "Hours"
+msgstr "Часове"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:36
+#: inc/rentit-booking/includes/rentit-rental-panels.php:58
+msgid "Days"
+msgstr "Дни"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:40
+#: inc/rentit-booking/includes/rentit-rental-panels.php:62
+msgid "into the future"
+msgstr "в бъдещето"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:45
+msgid "Maximum drop in"
+msgstr "Максимално вземане"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:48
+msgid "Max"
+msgstr ""
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:68
+msgid "Schedule"
+msgstr "График"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:74
+msgid "Day"
+msgstr "Ден"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:75
+msgid "Disabled hour (from)"
+msgstr "Час, в който не е свободна (от)"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:76
+#: inc/rentit-booking/includes/rentit-rental-panels.php:79
+msgid "Leave blank if all hours are available."
+msgstr "Оставете празно, ако всички часове са незаети."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:78
+msgid "Disabled hour (to)"
+msgstr "Час, в който не е свободна (до)"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:81
+msgid "Availability"
+msgstr "Наличност"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:82
+msgid "Selected day will not available."
+msgstr "Избраният ден не е свободен."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:91
+msgid "Monday"
+msgstr "Понеделник"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:92
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:93
+msgid "Wednesday"
+msgstr "Сряда"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:94
+msgid "Thursday"
+msgstr "Четвъртък"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:95
+msgid "Friday"
+msgstr "Петък"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:96
+msgid "Saturday"
+msgstr "Събота"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:97
+msgid "Sunday"
+msgstr "Неделя"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:117
+msgid "Not available"
+msgstr "N/A"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:146
+msgid "Drop-in location"
+msgstr "Място на вземане"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:147
+msgid "Drop-off location"
+msgstr "Място на връщане"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:165
+#: inc/rentit-booking/includes/rentit-rental-panels.php:209
+msgid "Select drop-in location"
+msgstr "Изберете място за вземане"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:185
+#: inc/rentit-booking/includes/rentit-rental-panels.php:229
+msgid "No locations found."
+msgstr "Не са намерени локации."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:194
+#: inc/rentit-booking/includes/rentit-rental-panels.php:238
+msgid "Select all"
+msgstr "Изберете всички"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:268
+msgid "Enter a location"
+msgstr "Въведете място"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:272
+msgid "Coordinates:"
+msgstr "Координати"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:277
+msgid "Formatted Address"
+msgstr "Форматиран адрес"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:289
+msgid "Website"
+msgstr "уеб сайт"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:435
+#: inc/rentit-booking/includes/rentit-rental-panels.php:544
+msgid "Select one of checkpoint:"
+msgstr "Изберете един от начините за плащане:"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:534
+msgid "Connecting to Instagram..."
+msgstr "Свържете се в Instagram..."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:587
+msgid "Base Cost for 1 / day"
+msgstr "Основна цена за 1 ден"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:590
+msgid ""
+"Will be applied regardless of the customer's choices on the booking form."
+msgstr ""
+"Ще бъде приложена независимо от избора на клиента на формата за наемане."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:596
+msgid "Sale Price for 1 / day"
+msgstr "Цена за продажба за 1 ден"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:599
+msgid "Sale Price choices on the booking form."
+msgstr "Избор на цена за продажба на формуляра за наемане."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:606
+msgid "Subtitle"
+msgstr "Подзаглавие"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:609
+msgid "subtitle"
+msgstr "подзаглавие"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:622
+msgid "Resources"
+msgstr "Ресурси"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:628
+msgid "Bulk Resources"
+msgstr "Обединете ресурси"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:635
+msgid "Select resources"
+msgstr "Изберете ресурси"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:654
+msgid "Flat cost"
+msgstr "Фиксирана цена"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:656
+msgid "per "
+msgstr "за"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:663
+msgid "No resources found."
+msgstr "Не са намерени ресурси."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:679
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:101
+msgid "Quantity"
+msgstr "Количество"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:681
+msgid "Duration"
+msgstr "Продължителност"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:682
+msgid "Flat cost?"
+msgstr "Фиксирана цена?"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:683
+msgid "Single cost with no duration applied."
+msgstr "Единична цена без посочена продължителност."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:710
+msgid "Add Resources"
+msgstr "Добавете ресурси"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:719
+msgid "Car year"
+msgstr "Година на производство"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:724
+msgid "2015"
+msgstr ""
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:729
+msgid "Car engine"
+msgstr "Двигател"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:739
+msgid "Car Transmission"
+msgstr "Скоростна кутия"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:748
+msgid "Car Mileage"
+msgstr "Километраж"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:751
+msgid "25000"
+msgstr ""
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:760
+msgid "Car stars"
+msgstr "Звезди"
+
+#: inc/rentit-booking/includes/rentit-rental-tab.php:4
+msgid "Cost & Resources"
+msgstr "Цена и ресурси"
+
+#: inc/rentit-booking/includes/rentit-rental-tab.php:12
+msgid "Rental Location"
+msgstr "Място на наемане"
+
+#: inc/rentit-booking/includes/rentit-rental-tab.php:19
+msgid "Rental Availability"
+msgstr "Наличност за наемане"
+
+#: inc/widgets/rentit-widget-advanced-search.php:22
+msgid "Display advanced search form.2"
+msgstr "Показване на разширено търсене форма.2"
+
+#: inc/widgets/rentit-widget-advanced-search.php:24
+#: inc/widgets/rentit-widget-advanced-search.php:28 template-map.php:218
+msgid "Advanced Search"
+msgstr "Разширено търсене"
+
+#: inc/widgets/rentit-widget-advanced-search.php:29
+#: inc/widgets/rentit-widget-tabbed-post.php:29
+msgid "Title"
+msgstr "Заглавие"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:22
+msgid "Display the tabbed posts in the sidebar."
+msgstr "Покажи постовете с табове в сайдбар."
+
+#: inc/widgets/rentit-widget-tabbed-post.php:24
+msgid "Rent It Tabbed Post"
+msgstr "Rent It постове с табове"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:28
+msgid "Cart"
+msgstr "Колика"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:33
+msgid "Recent Posts"
+msgstr "Последни публикации"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:34
+msgid "Recent Posts title"
+msgstr "Заглавие на последните публикации"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:39
+msgid "Recent Posts Limit"
+msgstr "Лимит на последните публикации"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:43
+msgid "Popular Posts"
+msgstr "Най-четени публикации"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:44
+msgid "Popular Posts title"
+msgstr "Заглавие на най-четените публикации"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:49
+msgid "Popular Posts Limit"
+msgstr "Лимит на най-четените публикации"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:54
+msgid "Insert url to all post"
+msgstr "Поставете линк към всички публикации"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:209
+msgid "More Posts"
+msgstr "Още публикации"
+
+#: inc/woocommerce.php:209 woocommerce/content-single-product.php:678
+msgid "Reservation Now"
+msgstr "Резервация сега"
+
+#: inc/woocommerce/content-single-product.php:20
+#: woocommerce/content-single-product.php:44
+msgid "Car Information"
+msgstr "Информация за колата"
+
+#: meta.php:7 partials/related-post.php:182
+msgid "By "
+msgstr "От"
+
+#: meta.php:18
+msgid " Comment"
+msgstr " Коментар"
+
+#: meta.php:26
+msgid "Likes"
+msgstr "Харесвания"
+
+#: partials/car-list1.php:27 woocommerce/content-product.php:108
+msgid " Rent It"
+msgstr " Наемане"
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Резултати от търсенето за: %s"
+
+#: search.php:35
+msgid "Nothing Found"
+msgstr "Не е намерено нищо"
+
+#: single-portfolio.php:37
+msgid "Project Overview"
+msgstr "За проекта"
+
+#: single-portfolio.php:42
+msgid "Project Details"
+msgstr "Информация за проекта"
+
+#: single-portfolio.php:46
+msgid "Skills"
+msgstr "Умения"
+
+#: single-portfolio.php:63
+msgid "Release Date"
+msgstr "Дата на обявяване"
+
+#: single-portfolio.php:73
+msgid "Older"
+msgstr "По-стари"
+
+#: single-portfolio.php:74
+msgid "Newer"
+msgstr "По-нови"
+
+#: single-portfolio.php:78
+msgid "Related project"
+msgstr "Подобен проект"
+
+#: template-coming-soon.php:89
+msgid "Coming soon"
+msgstr "Очаквайте скоро"
+
+#: template-login.php:30 template-login.php:90
+#: woocommerce/auth/form-login.php:35 woocommerce/global/form-login.php:39
+msgid "Login"
+msgstr "Вход"
+
+#: template-login.php:38
+msgid "Hello, welcome to your account"
+msgstr "Добре дошли в своя профил"
+
+#: template-login.php:48 template-login.php:130
+msgid "Sign in with Facebook"
+msgstr "Вписване с Facebook"
+
+#: template-login.php:57
+msgid " Sign in with Twitter"
+msgstr " Вписване с Twitter"
+
+#: template-login.php:66
+msgid "User name or email"
+msgstr "Потребителско име или email"
+
+#: template-login.php:73
+msgid "Your password"
+msgstr "Парола"
+
+#: template-login.php:80 woocommerce/global/form-login.php:42
+msgid "Remember me"
+msgstr "Запомни ме"
+
+#: template-login.php:86
+msgid "forgot password?"
+msgstr "Забравена парола?"
+
+#: template-login.php:95
+msgid "Hi "
+msgstr "Здравей"
+
+#: template-login.php:99 template-map.php:126
+msgid "Logout?"
+msgstr "Изход?"
+
+#: template-login.php:103
+msgid "Create New Account"
+msgstr "Създайте нов акаунт"
+
+#: template-login.php:108
+msgid "Create Your Account"
+msgstr "Създайте свой профил"
+
+#: template-login.php:121
+msgid ""
+"Create\n"
+"                                        Account"
+msgstr ""
+"Създайте\n"
+"                                        Акаунт"
+
+#: template-map.php:113
+msgid "Sign In"
+msgstr "Вход"
+
+#: template-map.php:119
+msgid "Register"
+msgstr "Регистрация"
+
+#: template-map.php:146
+msgid "Write Ticket"
+msgstr "Създай билет"
+
+#: template-map.php:156
+msgid "Find Best Rental Car"
+msgstr "Намерете най-добрата кола под наем"
+
+#: template-map.php:178
+msgid "Picking Off Location"
+msgstr "Място на връщане"
+
+#: template-map.php:193 woocommerce/content-single-product.php:380
+msgid "Picking Up Date"
+msgstr "Дата на вземане"
+
+#: template-map.php:204
+msgid "Picking Off Date"
+msgstr "Дата на връщане"
+
+#: template-map.php:222
+msgid " Find Car"
+msgstr " Намерете кола"
+
+#: template-map.php:232
+msgid "Result Rental Car"
+msgstr "Резултати коли под наем"
+
+#: woocommerce/archive-product.php:37 woocommerce/single-product.php:38
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Начало"
+
+#: woocommerce/auth/form-grant-access.php:16 woocommerce/auth/form-login.php:18
+#, php-format
+msgid "%s would like to connect to your store"
+msgstr "%s иска да се свърже с Вашия магазин"
+
+#: woocommerce/auth/form-grant-access.php:20
+#, php-format
+msgid ""
+"This will give \"%s\" <strong>%s</strong> access which will allow it to:"
+msgstr ""
+"Това ще даде \"%s\" <strong>%s</strong> достъп, което ще му осигури "
+"възможност да:"
+
+#: woocommerce/auth/form-grant-access.php:30
+#, php-format
+msgid "Logged in as %s"
+msgstr "Вписан като %s "
+
+#: woocommerce/auth/form-grant-access.php:30
+msgid "Logout"
+msgstr "Изход"
+
+#: woocommerce/auth/form-grant-access.php:34
+msgid "Approve"
+msgstr "Одобрете"
+
+#: woocommerce/auth/form-grant-access.php:35
+msgid "Deny"
+msgstr "Откажете"
+
+#: woocommerce/auth/form-login.php:22
+#, php-format
+msgid ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"%2$scancel and return to %1$s%3$s"
+msgstr ""
+"За връзка с %1$s трябва да влезете в профила си. Влезте в своя магазин сега "
+"или %2$sзатвори и се върнете към %1$s%3$s"
+
+#: woocommerce/auth/form-login.php:26
+msgid "Username or email address"
+msgstr "Потребителско име или email"
+
+#: woocommerce/auth/form-login.php:30 woocommerce/global/form-login.php:30
+msgid "Password"
+msgstr "Парола"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "Обща сума на количката"
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+#: woocommerce/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr "Междинна сума"
+
+#: woocommerce/cart/cart-totals.php:57 woocommerce/cart/cart-totals.php:58
+msgid "Shipping"
+msgstr "Доставка"
+
+#: woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "estimated for %s"
+msgstr "изчислено за %s"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:77
+#: woocommerce/checkout/review-order.php:17
+#: woocommerce/order/order-details.php:32
+msgid "Product"
+msgstr "Продукт"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:95
+msgid "Price"
+msgstr "Цена"
+
+#: woocommerce/cart/cart.php:58
+msgid "Remove this item"
+msgstr "Премахнете този продукт"
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr "Наличен за заявка при изчерпана наличност (backorder)"
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon"
+msgstr "Купон"
+
+#: woocommerce/cart/cart.php:136 woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr "Код за купон"
+
+#: woocommerce/cart/cart.php:136 woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr "Използване на купон"
+
+#: woocommerce/cart/cart.php:142
+msgid "Update Cart"
+msgstr "Актуализиране на количката"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to Checkout"
+msgstr "Премини към плащане"
+
+#: woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Има проблеми с продуктите във Вашата количка (показани горе). Моля, върнете "
+"се на страницата на количката и коригирайте проблемите преди да платите."
+
+#: woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr "Връщане към количката"
+
+#: woocommerce/checkout/form-billing.php:20
+msgid "Billing &amp; Shipping"
+msgstr "Плащане &amp; Доставка"
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing Details"
+msgstr "Информация за плащане"
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "Създаване на акаунт?"
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Създайте акаунт, като въведете информацията по-долу. Ако сте съществуващ "
+"клиент, моля, влезте в профила си от горната част на страницата."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Трябва да сте вписани, за да приключите поръчката."
+
+#: woocommerce/checkout/form-checkout.php:46
+msgid "Your order"
+msgstr "Вашата поръчка"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "Имате купон?"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "Кликнете тук, за да въведете своя код"
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr "Съществуващ клиент?"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "Натиснете за вход"
+
+#: woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Ако сте пазарили от нас преди, моля, въведете своята информация в долните "
+"полета. Ако сте нов клиент, моля, продължете към частта Плащане  &amp; "
+"Доставка."
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr "Доставка до различен адрес?"
+
+#: woocommerce/checkout/form-shipping.php:59
+#: woocommerce/content-single-product.php:650
+#: woocommerce/content-single-product.php:658
+msgid "Additional Information"
+msgstr "Допълнителна информация"
+
+#: woocommerce/checkout/payment.php:31
+#: woocommerce/content-single-product.php:476
+msgid "Payments options"
+msgstr "Методи за плащане"
+
+#: woocommerce/checkout/payment.php:41
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Моля, въведете своите данни горе, за да видите възможните начини за плащане."
+
+#: woocommerce/checkout/payment.php:43
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Съжаляваме, изглежда, че няма налични начини за плащане за Вашата държава. "
+"Моля, свържете се с нас, ако имате нужда от помощ или желаете да обсъдите "
+"други възможности."
+
+#: woocommerce/checkout/payment.php:54
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Тъй като Вашият браузър не поддържа JavaScript или той е спрян, моля, бъдете "
+"сигурни, че сте натиснали <em>Актуализиране на общата сума</em> преди да "
+"направите своята поръчка. Може да бъдете таксувани повече, ако не направите "
+"това."
+
+#: woocommerce/checkout/payment.php:54
+msgid "Update totals"
+msgstr "Актуализиране на общата сума"
+
+#: woocommerce/checkout/payment.php:64
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+"Прочел/а съм и приемам <a href=\"%s\" target=\"_blank\">правилата и "
+"условията</a>"
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"За съжаление поръчката Ви не може да бъде обработена, тъй като Вашият превод "
+"е бил отхвърлен от банката/търговеца."
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+"Моля, опитайте да купите отново или идете на страницата на Вашия профил."
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr "Моля, опитайте да купите отново."
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr "Плати"
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr "Моят профил"
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr "Благодарим Ви. Вашата поръчка беше получена."
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr "Номер на поръчката:"
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr "Дата:"
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr "Общо:"
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr "Метод на плащане:"
+
+#: woocommerce/content-single-product.php:141
+msgid " /for 1 day(s)"
+msgstr "/за 1 ден"
+
+#: woocommerce/content-single-product.php:166
+msgid "Extras & Frees"
+msgstr "Екстри и такси"
+
+#: woocommerce/content-single-product.php:394
+msgid "Dropping Off Date"
+msgstr "Дата за връщане"
+
+#: woocommerce/content-single-product.php:412
+msgid " Customer Information"
+msgstr "Информация за клиента"
+
+#: woocommerce/content-single-product.php:421
+msgid "Mr"
+msgstr "г-н"
+
+#: woocommerce/content-single-product.php:425
+msgid "Ms"
+msgstr "г-жа"
+
+#: woocommerce/content-single-product.php:431
+msgid "First Name *"
+msgstr "Име"
+
+#: woocommerce/content-single-product.php:442
+msgid "Last Name *"
+msgstr "Презиме *"
+
+#: woocommerce/content-single-product.php:454
+msgid "Your Email Address *"
+msgstr "Вашият Email адрес *"
+
+#: woocommerce/content-single-product.php:466
+msgid "Phone Number: *"
+msgstr "Тел. номер: *"
+
+#: woocommerce/content-single-product.php:574
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Съжаляваме, изглежда, че няма налични начини за плащане за Вашето "
+"местонахождение. Моля, свържете се с нас, ако имате нужда от помощ или "
+"желаете да обсъдите други възможности."
+
+#: woocommerce/content-single-product.php:604
+msgid "Select options"
+msgstr "Изберете опции"
+
+#: woocommerce/content-single-product.php:608
+msgid "View options"
+msgstr "Вижте опциите"
+
+#: woocommerce/content-single-product.php:616
+msgid "Add to cart"
+msgstr "Добави към количката"
+
+#: woocommerce/content-single-product.php:673
+msgid "I accept all information and Payments etc"
+msgstr "Приемам всякаква информация, начини на плащане и т.н."
+
+#: woocommerce/global/form-login.php:26
+msgid "Username or email"
+msgstr "Потребителско име или email"
+
+#: woocommerce/global/form-login.php:46
+msgid "Lost your password?"
+msgstr "Забравена парола?"
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr "Не бяха намерени продукти според тези критерии."
+
+#: woocommerce/order/form-tracking.php:20
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+"За да проследите своята поръчка, моля въведете ID на поръчката в полето по-"
+"долу и натиснете бутона \"Проследяване\". Този номер Ви е бил даден в "
+"разписката и в потвърдителния имейл, който сте получили."
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr "ID на поръчката"
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr "Имейл за потвърждение, намерен във Вашата поръчка."
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr "Email за фактуриране"
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr "Email, който сте използвали при покупка"
+
+#: woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr "Проследяване"
+
+#: woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr "Поръчайте отново"
+
+#: woocommerce/order/order-details-customer.php:16
+msgid "Customer Details"
+msgstr "Информация за купувача"
+
+#: woocommerce/order/order-details-customer.php:23
+msgid "Note:"
+msgstr "Бележка:"
+
+#: woocommerce/order/order-details-customer.php:30
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:37
+msgid "Telephone:"
+msgstr "Телефон:"
+
+#: woocommerce/order/order-details-customer.php:53
+msgid "Billing Address"
+msgstr "Адрес за фактуриране"
+
+#: woocommerce/order/order-details-customer.php:56
+#: woocommerce/order/order-details-customer.php:67
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:64
+msgid "Shipping Address"
+msgstr "Адрес за доставка"
+
+#: woocommerce/order/order-details.php:27
+msgid "Order Details"
+msgstr "Информация за поръчка"
+
+#: woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "Поръчка #%s , която беше направена %s има статус &ldquo;%s&rdquo;"
+
+#: woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr "и беше приключена"
+
+#: woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr "преди"
+
+#: woocommerce/order/tracking.php:26
+msgid "Order Updates"
+msgstr "Актуализации на поръчката"
+
+#: woocommerce/order/tracking.php:33
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s оценка за %s"
+msgstr[1] "%s оценки за %s"
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr "Оценки"
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "Все още няма оценки."
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "Добавете оценка."
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr "Бъдете първият дал оценка."
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Отговор на %s"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr "Изпращане"
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+"Трябва да <a href=\"%s\">влезете в профила си</a>, за да дадете оценка."
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your Rating"
+msgstr "Вашата оценка"
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Rate&hellip;"
+msgstr "Оценка&hellip;"
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Perfect"
+msgstr "Перфектно"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Good"
+msgstr "Добро"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Average"
+msgstr "Средно"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Not that bad"
+msgstr "Не зле"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Very Poor"
+msgstr "Много слабо"
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your Review"
+msgstr "Вашата оценка"
+
+#: woocommerce/single-product-reviews.php:99
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Само влезли в профила си клиенти, които са закупили този продукт, могат да "
+"оставят оценка."
+
+#: woocommerce/single-product/rating.php:26
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Оценка %s от общо 5"
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "out of %s5%s"
+msgstr "от общо %s5%s"
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "на базата на %s оценка от клиент"
+msgstr[1] "на базата на %s оценки от клиенти"
+
+#: woocommerce/single-product/rating.php:32
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s оценка от клиент"
+msgstr[1] "%s оценки от клиенти"
+
+#: woocommerce/single-product/related.php:43
+msgid "Related Products"
+msgstr "Подобни продукти"
+
+#: woocommerce/single-product/review.php:39
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Оценка %d от общо 5"
+
+#: woocommerce/single-product/review.php:40
+msgid "out of 5"
+msgstr "от 5"
+
+#: woocommerce/single-product/review.php:47
+msgid "Your comment is awaiting approval"
+msgstr "Вашият коментар чака одобрение"
+
+#: woocommerce/single-product/review.php:56
+msgid "verified owner"
+msgstr "надежден собственик"
+
+#: woocommerce/single-product/sale-flash.php:20
+msgid "Sale!"
+msgstr "Разпродажба!"
+
+#: woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "Може също да харесате&hellip;"
+
+#. Theme Name of the plugin/theme
+msgid "RentIt"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Car Rental Template"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Victor Lerner"
+msgstr ""

@@ -1,0 +1,384 @@
+/*
+Theme Name: RentIt
+Version: 1.5.3
+Author: Victor Lerner
+Author URI:
+Theme URI:
+Description: Car Rental Template
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: rentit
+Tags: custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, sticky-post, threaded-comments
+
+
+
+*/
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+.wp-caption-text {
+    color: #707070;
+	color: rgba(51, 51, 51, 0.7);
+	font-size: 12px;
+	font-size: 1.2rem;
+	line-height: 1.5;
+	padding: 0.5em 0;
+}
+.sticky  {
+    background: #000 !important;dd
+	color: #fff !important;
+}
+.gallery-caption {
+    color: #707070;
+	display: block;
+	font-size: 14px;
+	line-height: 1.5;
+	padding: 7px 0;
+}
+.bypostauthor {
+    width: 100%;
+}
+.alignright {
+    float:right;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	margin-top: 6px;
+	margin-left: 10px;
+}
+.alignleft {
+    float:left;
+	margin-right: 10px;
+	margin-bottom: 6px;
+	margin-top: 6px;
+	margin-left: 0px;
+
+}
+.aligncenter {
+    display:block;
+	margin:0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.page404 {
+    margin-top: 200px !important;
+}
+#hero-bg {
+    display: block !important;
+}
+.fixid_notr {
+    position: fixed !important;
+    transform: translate3d(0px, 0px, 0px) !important;
+}
+
+.post-body img {
+	max-width: 100% !important;
+}
+
+.subsciber_email.error {
+	border-color: red !important;
+}
+
+
+
+
+.dropdown-menu {
+	width: 100%;
+}
+
+.iw-container {
+
+}
+.iw-content img {
+	height:220px;
+	width: 270px;
+}
+
+.alignnone {
+	margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+	display: block;
+	margin: 5px auto 5px auto;
+}
+
+.alignright {
+	float:right;
+	margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+	float: right;
+	margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+	margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.wp-caption {
+	background: #fff;
+	border: 1px solid #f0f0f0;
+	max-width: 96%; /* Image does not overflow the content area */
+	padding: 5px 3px 10px;
+	text-align: center;
+}
+
+.wp-caption.alignnone {
+	margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+	margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+	margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+	border: 0 none;
+	height: auto;
+	margin: 0;
+	max-width: 98.5%;
+	padding: 0;
+	width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	margin: 0;
+	padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}
+.post-body iframe {
+	max-width: 100% !important;
+}
+
+
+.home_page .wpb_row {
+	margin-bottom: 0px !important;
+}
+
+.flag_grey {
+	color: #a5abb7 !important;
+	cursor: pointer;
+}
+
+.wp-video-shortcode {
+	width: 100% !important;
+}
+.widget-content  img, .widget img , .widget select,  .widget-content .select, .widget-content option, .post-body img{
+	max-width: 100%;
+}
+#coupon_code {
+	width:  auto;
+	margin-right: 20px;
+	height: 41.2px;
+}
+#add_payment_method #payment, .woocommerce-checkout #payment {
+	background: #fbfbfb;
+}
+.post-body  ul:not([class]) > li {
+	list-style-type: disc;
+	list-style-position:outside;
+	margin: 0;
+	padding-left: 2em;
+	list-style-position: inside;
+	text-indent: -1em;
+	overflow: hidden;
+	margin-top: 10px;
+}
+.post-body  ul:not([class])  {
+
+	/*list-style-type: disc;*/
+	list-style-position:outside;
+	margin-right: 1px;
+	margin-left: 2px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+
+	margin-left: 3px;
+	margin-left: 20px;
+	padding-left: 0px;
+	margin-top: 10px;
+}
+
+.post-body   ol:not([class]) {
+	list-style-type: decimal;
+
+	list-style-position:outside;
+	margin-right: 1px;
+	margin-left: 2x;
+	margin-bottom: 10px;
+	margin-left: 5px;
+
+	margin-left: 3px;
+	margin-left: 20px;
+	padding-left: 0px;
+	margin-top: 10px;
+
+
+}
+.post-body   ol:not([class]) > li{
+	list-style-type: decimal;
+	list-style-position:outside;
+	margin: 0;
+	padding-left: 2em;
+	list-style-position: inside;
+	text-indent: -1em;
+	overflow: hidden;
+	margin-top: 10px;
+
+}
+.post-body  th {
+	padding: 15px;
+	border: 1px solid #FFF;
+	color: #000;
+	background: #fff;
+	border: 1px solid #000;
+}
+.post-body  td {
+	padding: 15px;
+	border: 1px solid #000;
+}
+.post-body  table {
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 20px;
+}
+
+.post-body  dl {
+	margin: 0 20px;
+}
+.post-body dd {
+	margin: 0 0 20px;
+}
+.widget-content .widget-content{
+	padding: 0px !important;
+}
+
+.wp-video {
+	width: 100% !important;
+}
+
+.sf-menu li.active2 > a {
+	color: #14181c;
+}
+.car-thumbnails div {
+	width: 87px;
+
+}
+
+/*
+.main-slider .item {
+	min-height: 700px;
+}*/
+.mycontent_area {
+	z-index: auto;
+}
+
+
+
+.ver3_2  .befor_tabs{
+	min-height: 285px;
+}
+
+.ver3_2 .form-search  {
+	/* min-height: 512px; */
+}
+.ver3_2  .my_tabs_reser {
+	min-height: 300px;
+}
+.ver3_2  .my_tabs_reser  .inner{
+	min-height: 100px;
+
+}
+.tab-content {
+	min-height: 380px;
+}
+.ver3_2 .form-search.light {
+	/* min-height: 520px; */
+}
+.ajax-loader_img {
+	display: none;
+}
+
+.col-md-8 .swiper-slide {
+	width: 100% !important;
+}
+.pp_social .facebook {
+	width: 65px;
+}
+
+.videoID iframe {
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+}
+
+#add_payment_method table.cart img, .woocommerce-cart table.cart img, .woocommerce-checkout table.cart img {
+	width: 100px !important;
+}
+
+@media (max-width: 680px) {
+	.swiper-wrapper .page-section {
+		width: 95% !important;
+	}
+
+}
+
+
+.owl-carousel.owl-rtl {
+	direction: ltr !important;
+}
+

@@ -1,0 +1,90 @@
+.rentit-form-tabular > div{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+.woocommerce_options_panel .car_locations td.drop_in input,
+.woocommerce_options_panel .car_locations td.drop_off input{
+  width: 100%;
+}
+
+.woocommerce_options_panel .duration_field .wrap{
+  width: 90%;
+}
+
+.woocommerce_options_panel .duration_field .wrap select,
+.woocommerce_options_panel .duration_field .wrap input#rental_duration{
+  margin-right: 4px;
+}
+
+.woocommerce_options_panel .duration_field .wrap input#rental_duration{
+  width: 80px;
+}
+
+.woocommerce_options_panel .rental-resources td.item_name input{
+  width: 100%;
+}
+
+.woocommerce_options_panel .rental-resources td.cost input,
+.woocommerce_options_panel .rental-resources td.quantity input,
+.woocommerce_options_panel .rental-resources td.duration input{
+  width: 40px;
+  margin-right: 4px;
+}
+
+.woocommerce_options_panel .bulk-resources-select{
+  width: 50%;
+}
+
+.woocommerce_options_panel .bulk-resources-select .select2-input{
+  width: 100% !important;
+}
+
+.bootstrap-select.select-location > .selectpicker{
+  background: #F5F6F8 !important;
+  border: 1px solid #F5F6F8 !important;
+  height: 50px;
+}
+
+.bootstrap-select.select-location > .selectpicker:hover{
+  border-color: #14181c !important;
+}
+
+.drop-in-selection .selectpicker-wrapper,
+.drop-off-selection .selectpicker-wrapper{
+  overflow-x: hidden;
+}
+
+.drop-in-selection input[type="text"].dropin-time{
+  padding-right: 0 !important;
+}
+
+.woocommerce div.product form.cart div.quantity{
+  float: none;
+}
+
+
+.wrap {
+  position: relative;
+
+}
+
+
+@media(min-width: 1200px){
+  .woocommerce_options_panel p.rentit_custom_price_g
+  {
+
+    max-width:15% !important;
+    float: left;
+  }
+}
+.requre  label{
+   color: red !important;
+   font-weight: 600;
+ }
+
+.rentit-form-tabular {
+  clear: all !important;
+  margin-top: 10px !important;
+}

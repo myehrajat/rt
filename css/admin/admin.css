@@ -1,0 +1,100 @@
+.map_container, #map-canvas{
+
+}
+#canvas2 {
+    position: relative;
+    z-index: 800;
+    height: 600px;
+}
+
+#map-canvas {
+    margin-top: 20px !important;
+    z-index: 800 ;
+    /*position: static !important;*/
+    /*height: 250px !important;*/
+    min-height: 500px !important;
+
+}
+#pac-input {
+    background-color: #fff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 12px;
+    padding: 0 11px 0 13px;
+    text-overflow: ellipsis;
+    min-width: 350px;
+    width: 25%;
+}
+
+#pac-input:focus {
+    border-color: #4d90fe;
+}
+
+.pac-container {
+    font-family: Roboto;
+}
+#type-selector {
+    color: #fff;
+    padding: 5px 11px 0px 11px;
+    width: 25%;
+    height: 110px;
+    min-width: 350px;
+    margin-top: 60px;
+    z-index: 5000000 !important;
+    position: relative;
+    left: 10px !important;
+}
+#type-selector label {
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+#type-selector{
+    background-color: #e73931 !important;
+}
+#type-selector input {
+    max-width: 100%;
+    outline: none;
+    min-width: 100%;
+    margin-right: 10px;
+}
+.cart_info .btn-follow{
+    margin:0;
+    padding: 0 10px;
+}
+.rounded{
+    color: white;
+    text-align: center;
+    margin-bottom: 22px;
+}
+#canvas2 input {
+    color: black;
+}
+#maincn {display:none}
+
+#type-selector {
+    position: relative;
+    top: 30px !important;
+}
+#pac-input{
+    position: absolute;
+    left: 0px !important;
+    top: 50px !important;
+    height: 30px !important;
+    z-index: 9999 !important;
+    width: 370px !important;
+}
+
+#type-selector label {
+    margin: 1px;
+}
+
+
+.inventory_options  {
+    display: block !important;
+}
+._manage_stock_field  {
+    display: block !important;
+}
