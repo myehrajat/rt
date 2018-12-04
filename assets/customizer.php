@@ -349,8 +349,8 @@ function rentit_true_customizer_init($wp_customize)
         'section' => $tmp_sectionname . "_section",
         'settings' => $tmp_settingname,
         'type' => 'checkbox'));
-
-    $tmp_settingname = $tmp_sectionname . '_date_type';
+/*MYEDIT>*/
+    $tmp_settingname = $tmp_sectionname . '_cal_type';
     $wp_customize->add_setting($tmp_settingname, array('default' => 'gregorian',
                                                        'sanitize_callback' => 'wp_kses_post'));
     $wp_customize->add_control($tmp_settingname . '_control', array(
@@ -358,7 +358,14 @@ function rentit_true_customizer_init($wp_customize)
         'section' => $tmp_sectionname . "_section",
         'description' => esc_html__('insert calendar type  for example "jalali" or "gregorian"!', 'rentit'),
         'settings' => $tmp_settingname,
-        'type' => 'text'));
+        'type' => 'select',
+        'choices' => array(
+            'jalali' => esc_html__('Jalali', 'rentit'),
+            'gregorian' => esc_html__('Gregorian', 'rentit'),
+            'hijri' => esc_html__('hijri (we are working on it...)', 'rentit'),
+        )));
+/*<MYEDIT*/
+
     /*******************************************************************
      * logo
      *******************************************************************/
