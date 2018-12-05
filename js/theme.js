@@ -965,7 +965,10 @@ function updater() {
 
 
     jQuery(document).ready(function () {
-        moment.lang('en', {
+		/*MYEDIT>*/
+        moment.updateLocale('en', {
+        //moment.lang('en', {
+		/*<MYEDIT*/
             week: {dow: 1}
         });
 
