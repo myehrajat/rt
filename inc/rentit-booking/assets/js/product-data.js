@@ -190,7 +190,11 @@
 
             $('.' + $(this).data('id')).datetimepicker({
                 minDate: today,
-                format: "MM/DD/YYYY H:mm"
+				/*MYEDIT>*/
+                //format: "MM/DD/YYYY H:mm"
+				locale:momentVars.cal_lang
+				,format:momentVars.cal_format
+				/*<MYEDIT*/
 
             });
         });
@@ -199,8 +203,11 @@
 
             $('.' + $(this).data('id')).datetimepicker({
                 minDate: today,
-                format: "MM/DD/YYYY H:mm"
-
+				/*MYEDIT>*/
+                //format: "MM/DD/YYYY H:mm"
+				locale:momentVars.cal_lang
+				,format:momentVars.cal_format
+				/*<MYEDIT*/
             });
         });
 
@@ -256,8 +263,11 @@
 
             $('.' + $(this).data('id')).datetimepicker({
                 minDate: today,
-                format: "MM/DD/YYYY H:mm"
-
+				/*MYEDIT>*/
+                //format: "MM/DD/YYYY H:mm"
+				locale:momentVars.cal_lang
+				,format:momentVars.cal_format
+				/*<MYEDIT*/
             });
         });
 
@@ -265,8 +275,11 @@
 
             $('.' + $(this).data('id')).datetimepicker({
                 minDate: today,
-                format: "MM/DD/YYYY H:mm"
-
+				/*MYEDIT>*/
+                //format: "MM/DD/YYYY H:mm"
+				locale:momentVars.cal_lang
+				,format:momentVars.cal_format
+				/*<MYEDIT*/
             });
         });
 
@@ -285,8 +298,11 @@
 
         $('.' + $(this).data('id')).datetimepicker({
             minDate: today,
-            format: "MM/DD/YYYY H:mm"
-
+			/*MYEDIT>*/
+            //format: "MM/DD/YYYY H:mm"
+			locale:momentVars.cal_lang
+			,format:momentVars.cal_format
+			/*<MYEDIT*/
         });
     });
 
@@ -295,8 +311,11 @@
 
         $('.' + $(this).data('id')).datetimepicker({
             minDate: today,
-            format: "MM/DD/YYYY H:mm"
-
+			/*MYEDIT>*/
+			//format: "MM/DD/YYYY H:mm"
+			locale:momentVars.cal_lang
+			,format:momentVars.cal_format
+			/*<MYEDIT*/
         });
     });
 

@@ -366,13 +366,19 @@ function renita_style_scripts() {
 		$terms = "";
 	}
 
-
-	$date_format = get_theme_mod( 'Other_date_format_calendar' );
+	/*MYEDIT>*/
+	//$date_format = get_theme_mod( 'Other_date_format_calendar' );
+	$date_format = cal_format;
+	/*<MYEDIT*/
 
 	if ( !isset( $date_format{2} ) ) {
 		$date_format = 'MM/DD/YYYY H:mm';
 	}
-	$lang = get_theme_mod( 'Other_date_format_lang' );
+	/*MYEDIT>*/
+	//$lang = get_theme_mod( 'Other_date_format_lang' );
+	$lang = cal_lang;
+	/*<MYEDIT*/
+
 	if ( !isset( $lang{1} ) ) {
 		$lang = 'en';
 	}
