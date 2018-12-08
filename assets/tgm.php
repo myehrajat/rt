@@ -55,6 +55,24 @@ function rentit_my_theme_register_required_plugins2()
             'slug' => 'woocommerce',
             'required' => false,
         ),
+		/*MYEDIT>*/
+		//this is for installing my custom plugins
+        array(
+            'name' => 'RentIt Date Changer',
+            'slug' => 'RentIt_Date_Changer',
+            'required' => true,
+            'source' => get_template_directory() . "/plugins/rentit_date_changer.zip",
+            'version' => '1.0',
+        ),
+        array(
+            'name' => 'Rentit Script Updater',
+            'slug' => 'Rentit_Script_Updater',
+            'required' => true,
+            'source' => get_template_directory() . "/plugins/rentit_script_updater.zip",
+            'version' => '1.0',
+        ),
+
+		/*<MYEDIT*/
     );
     /**
      * Array of configuration settings. Amend each line as needed.
