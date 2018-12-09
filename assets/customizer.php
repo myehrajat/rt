@@ -349,22 +349,7 @@ function rentit_true_customizer_init($wp_customize)
         'section' => $tmp_sectionname . "_section",
         'settings' => $tmp_settingname,
         'type' => 'checkbox'));
-/*MYEDIT>*/
-    $tmp_settingname = $tmp_sectionname . '_cal_type';
-    $wp_customize->add_setting($tmp_settingname, array('default' => 'gregorian',
-                                                       'sanitize_callback' => 'wp_kses_post'));
-    $wp_customize->add_control($tmp_settingname . '_control', array(
-        'label' =>  esc_html__('Select the calendar type', 'rentit'),
-        'section' => $tmp_sectionname . "_section",
-        'description' => esc_html__('insert calendar type  for example "jalali" or "gregorian"!', 'rentit'),
-        'settings' => $tmp_settingname,
-        'type' => 'select',
-        'choices' => array(
-            'jalali' => esc_html__('Jalali', 'rentit'),
-            'gregorian' => esc_html__('Gregorian', 'rentit'),
-            'hijri' => esc_html__('hijri (we are working on it...)', 'rentit'),
-        )));
-/*<MYEDIT*/
+
 
     /*******************************************************************
      * logo
@@ -832,6 +817,7 @@ function rentit_true_customizer_init($wp_customize)
     ));
 
 
+
 }
 
 function rentit_sanitize_to_int($value)
@@ -892,4 +878,15 @@ function rentit_custom_customize_enqueue()
 add_action('customize_controls_enqueue_scripts',
     'rentit_custom_customize_enqueue');
 add_action('customize_register', 'rentit_true_customizer_init');
+
+
+
+
+
+
+
+
+
+
+
 ?>
