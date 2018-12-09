@@ -982,7 +982,15 @@ $post_id = get_the_ID();
 				echo esc_html__( 'Resources', 'rentit' ); ?></strong>
         </p>
 
+			<?php
+			
+		/*MYEDIT>*/
+		if(function_exists('RentIt_Percentage_Discount_show_options')){
+			RentIt_Percentage_Discount_show_options();
+		}
+		/*<MYEDIT*/
 
+		?>
         <p class="form-field">
             <!---
 			<label for="bulk-resources-select"><?php echo esc_html__( 'Bulk Resources', 'rentit' ); ?></label>

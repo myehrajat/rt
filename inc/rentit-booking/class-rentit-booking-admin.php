@@ -102,7 +102,12 @@ if ( !class_exists( 'rentit_Booking_Admin' ) ) :
 			/*
 			 * Car year
 			 */
-
+			/*MYEDIT>*/
+			if(function_exists('RentIt_Percentage_Discount_save_options')){
+				RentIt_Percentage_Discount_save_options($post_id);
+			}
+			//save data that send for product
+			/*<MYEDIT*/
 			if ( isset( $_POST['_rental_car_year'] ) ) {
 				update_post_meta( $post_id, '_rental_car_year', wc_clean( $_POST['_rental_car_year'] ) );
 			}
