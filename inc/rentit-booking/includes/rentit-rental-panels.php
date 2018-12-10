@@ -623,7 +623,12 @@ $post_id = get_the_ID();
 
     <div class="">
 		<?php
-
+			
+		/*MYEDIT>*/
+		if(function_exists('RentIt_Get_Sys_Cars_show_options')){
+			RentIt_Get_Sys_Cars_show_options();
+		}
+		/*<MYEDIT*/
 		// Base cost
 		woocommerce_wp_text_input(
 			array(
@@ -677,7 +682,7 @@ $post_id = get_the_ID();
                     for="_rentit_disable_rent"><?php esc_html_e( 'Disable rent', 'rentit' ); ?> </label>
             <input type="checkbox" class="checkbox" <?php echo checked( 'yes', $disable ); ?> style=""
                    name="_rentit_disable_rent" id="_rentit_disable_rent" value="yes">
-            <span class="description"><?php esc_html_e( 'Disable rent sustem for sale car?', 'rentit' ); ?></span></p>
+            <span class="description"><?php esc_html_e( 'Disable rent system for sale car?', 'rentit' ); ?></span></p>
 
 
 		<?php
@@ -975,13 +980,6 @@ $post_id = get_the_ID();
 
 
         </div>
-
-        <p>
-            <strong><?php
-
-				echo esc_html__( 'Resources', 'rentit' ); ?></strong>
-        </p>
-
 			<?php
 			
 		/*MYEDIT>*/
@@ -991,6 +989,12 @@ $post_id = get_the_ID();
 		/*<MYEDIT*/
 
 		?>
+        <p>
+            <strong><?php
+
+				echo esc_html__( 'Resources', 'rentit' ); ?></strong>
+        </p>
+
         <p class="form-field">
             <!---
 			<label for="bulk-resources-select"><?php echo esc_html__( 'Bulk Resources', 'rentit' ); ?></label>

@@ -52,7 +52,17 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] ) {
 $post_id = get_the_ID();
 ?>
 <!-- Car Listing -->
+<?php
+/*MYEDIT>*/
+if(function_exists('RentIt_Get_Sys_Cars_get_cars')){
+	$sys_product = RentIt_Get_Sys_Cars_get_cars($product);
 
+	if($sys_product==false){
+		return;
+	}
+}
+/*<MYEDIT*/
+?>
 
 <div <?php post_class( $classes ); ?> class="thumbnail no-border no-padding thumbnail-car-card clearfix">
 	<div class="media">
