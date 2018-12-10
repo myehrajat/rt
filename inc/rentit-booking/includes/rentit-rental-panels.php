@@ -624,11 +624,11 @@ $post_id = get_the_ID();
     <div class="">
 		<?php
 			
-		/*MYEDIT>*/
+		/*MYEDIT>RentIt_Get_Sys_Cars*/
 		if(function_exists('RentIt_Get_Sys_Cars_show_options')){
 			RentIt_Get_Sys_Cars_show_options();
 		}
-		/*<MYEDIT*/
+		/*RentIt_Get_Sys_Cars<MYEDIT*/
 		// Base cost
 		woocommerce_wp_text_input(
 			array(
@@ -981,11 +981,11 @@ $post_id = get_the_ID();
         </div>
 			<?php
 			
-		/*MYEDIT>*/
+		/*MYEDIT>RentIt_Percentage_Discount*/
 		if(function_exists('RentIt_Percentage_Discount_show_options')){
 			RentIt_Percentage_Discount_show_options();
 		}
-		/*<MYEDIT*/
+		/*RentIt_Percentage_Discount<MYEDIT*/
 
 		?>
         <p>

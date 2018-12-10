@@ -190,11 +190,11 @@
 
             $('.' + $(this).data('id')).datetimepicker({
                 minDate: today,
-				/*MYEDIT>*/
+				/*MYEDIT>RentIt_Date_Changer*/
                 //format: "MM/DD/YYYY H:mm"
 				locale:momentVars.cal_lang
 				,format:momentVars.cal_format
-				/*<MYEDIT*/
+				/*RentIt_Date_Changer<MYEDIT*/
 
             });
         });
@@ -203,11 +203,11 @@
 
             $('.' + $(this).data('id')).datetimepicker({
                 minDate: today,
-				/*MYEDIT>*/
+				/*MYEDIT>RentIt_Date_Changer*/
                 //format: "MM/DD/YYYY H:mm"
 				locale:momentVars.cal_lang
 				,format:momentVars.cal_format
-				/*<MYEDIT*/
+				/*RentIt_Date_Changer<MYEDIT*/
             });
         });
 
@@ -263,11 +263,11 @@
 
             $('.' + $(this).data('id')).datetimepicker({
                 minDate: today,
-				/*MYEDIT>*/
+				/*MYEDIT>RentIt_Date_Changer*/
                 //format: "MM/DD/YYYY H:mm"
 				locale:momentVars.cal_lang
 				,format:momentVars.cal_format
-				/*<MYEDIT*/
+				/*RentIt_Date_Changer<MYEDIT*/
             });
         });
 
@@ -275,11 +275,11 @@
 
             $('.' + $(this).data('id')).datetimepicker({
                 minDate: today,
-				/*MYEDIT>*/
+				/*MYEDIT>RentIt_Date_Changer*/
                 //format: "MM/DD/YYYY H:mm"
 				locale:momentVars.cal_lang
 				,format:momentVars.cal_format
-				/*<MYEDIT*/
+				/*RentIt_Date_Changer<MYEDIT*/
             });
         });
 
@@ -298,11 +298,11 @@
 
         $('.' + $(this).data('id')).datetimepicker({
             minDate: today,
-			/*MYEDIT>*/
+			/*MYEDIT>RentIt_Date_Changer*/
             //format: "MM/DD/YYYY H:mm"
 			locale:momentVars.cal_lang
 			,format:momentVars.cal_format
-			/*<MYEDIT*/
+			/*RentIt_Date_Changer<MYEDIT*/
         });
     });
 
@@ -311,11 +311,11 @@
 
         $('.' + $(this).data('id')).datetimepicker({
             minDate: today,
-			/*MYEDIT>*/
+			/*MYEDIT>RentIt_Date_Changer*/
 			//format: "MM/DD/YYYY H:mm"
 			locale:momentVars.cal_lang
 			,format:momentVars.cal_format
-			/*<MYEDIT*/
+			/*RentIt_Date_Changer<MYEDIT*/
         });
     });
 

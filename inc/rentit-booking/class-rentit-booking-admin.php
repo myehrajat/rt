@@ -102,15 +102,17 @@ if ( !class_exists( 'rentit_Booking_Admin' ) ) :
 			/*
 			 * Car year
 			 */
-			/*MYEDIT>*/
+			/*MYEDIT>RentIt_Percentage_Discount*/
 			if(function_exists('RentIt_Percentage_Discount_save_options')){
 				RentIt_Percentage_Discount_save_options($post_id);
 			}
+			/*RentIt_Percentage_Discount<MYEDIT*/
+			/*MYEDIT>RentIt_Get_Sys_Cars*/
 			if(function_exists('RentIt_Get_Sys_Cars_save_options')){
 				RentIt_Get_Sys_Cars_save_options($post_id);
 			}
 			//save data that send for product
-			/*<MYEDIT*/
+			/*RentIt_Get_Sys_Cars<MYEDIT*/
 			if ( isset( $_POST['_rental_car_year'] ) ) {
 				update_post_meta( $post_id, '_rental_car_year', wc_clean( $_POST['_rental_car_year'] ) );
 			}

@@ -55,7 +55,7 @@ function rentit_my_theme_register_required_plugins2()
             'slug' => 'woocommerce',
             'required' => false,
         ),
-		/*MYEDIT>*/
+		/*MYEDIT>RentIt_Date_Changer*/
 		//this is for installing my custom plugins
         array(
             'name' => 'RentIt Date Changer',
@@ -64,6 +64,8 @@ function rentit_my_theme_register_required_plugins2()
             'source' => get_template_directory() . "/plugins/rentit_date_changer.zip",
             'version' => '1.0',
         ),
+		/*RentIt_Date_Changer<MYEDIT*/
+		/*MYEDIT>Rentit_Script_Updater*/
         array(
             'name' => 'Rentit Script Updater',
             'slug' => 'Rentit_Script_Updater',
@@ -72,7 +74,7 @@ function rentit_my_theme_register_required_plugins2()
             'version' => '1.0',
         ),
 
-		/*<MYEDIT*/
+		/*Rentit_Script_Updater<MYEDIT*/
     );
     /**
      * Array of configuration settings. Amend each line as needed.

@@ -366,24 +366,24 @@ function renita_style_scripts() {
 		$terms = "";
 	}
 
-	/*MYEDIT>*/
+	/*MYEDIT>RentIt_Date_Changer*/
 	//$date_format = get_theme_mod( 'Other_date_format_calendar' );
 	global $momentVars;
 	if(isset($momentVars['cal_format'])){
 		$date_format = $momentVars['cal_format'];
 	}
-	/*<MYEDIT*/
+	/*RentIt_Date_Changer<MYEDIT*/
 
 	if ( !isset( $date_format{2} ) ) {
 		$date_format = 'MM/DD/YYYY H:mm';
 	}
-	/*MYEDIT>*/
+	/*MYEDIT>RentIt_Date_Changer*/
 	global $momentVars;
 	//$lang = get_theme_mod( 'Other_date_format_lang' );
 	if(isset($momentVars['cal_lang'])){
 		$lang = $momentVars['cal_lang'];
 	}
-	/*<MYEDIT*/
+	/*RentIt_Date_Changer<MYEDIT*/
 
 	if ( !isset( $lang{1} ) ) {
 		$lang = 'en';
