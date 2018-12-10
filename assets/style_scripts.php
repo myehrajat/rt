@@ -368,15 +368,21 @@ function renita_style_scripts() {
 
 	/*MYEDIT>*/
 	//$date_format = get_theme_mod( 'Other_date_format_calendar' );
-	$date_format = cal_format;
+	global $momentVars;
+	if(isset($momentVars['cal_format'])){
+		$date_format = $momentVars['cal_format'];
+	}
 	/*<MYEDIT*/
 
 	if ( !isset( $date_format{2} ) ) {
 		$date_format = 'MM/DD/YYYY H:mm';
 	}
 	/*MYEDIT>*/
+	global $momentVars;
 	//$lang = get_theme_mod( 'Other_date_format_lang' );
-	$lang = cal_lang;
+	if(isset($momentVars['cal_lang'])){
+		$lang = $momentVars['cal_lang'];
+	}
 	/*<MYEDIT*/
 
 	if ( !isset( $lang{1} ) ) {

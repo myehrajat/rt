@@ -965,12 +965,21 @@ function updater() {
 
 
     jQuery(document).ready(function () {
-		/*MYEDIT>*/
-        moment.updateLocale('en', {
-        //moment.lang('en', {
-		/*<MYEDIT*/
-            week: {dow: 1}
-        });
+		/*MYEDIT>Rentit_Script_Updater*/
+		/*in newer version of moment.js moment.lang deprecated and updated to moment.updateLocale*/ 
+		if (typeof moment.updateLocale === "function") { 
+
+			moment.updateLocale('en', {
+				week: {dow: 1}
+			});
+		}else{
+		/*Rentit_Script_Updater<MYEDIT*/
+			moment.lang('en', {
+				week: {dow: 1}
+			});
+		/*MYEDIT>Rentit_Script_Updater*/
+		}
+		/*Rentit_Script_Updater<MYEDIT*/
 
         jQuery("#formSearchUpDate50").datetimepicker({
             minDate: today,

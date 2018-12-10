@@ -53,7 +53,7 @@ $post_id = get_the_ID();
 ?>
 <!-- Car Listing -->
 <?php
-/*MYEDIT>*/
+/*MYEDIT>RentIt_Get_Sys_Cars*/
 //echo $post_id;
 if(function_exists('RentIt_Get_Sys_Cars_get_cars')){
 	$sys_product = RentIt_Get_Sys_Cars_get_cars($post_id);
@@ -62,7 +62,7 @@ if(function_exists('RentIt_Get_Sys_Cars_get_cars')){
 		return;
 	}
 }
-/*<MYEDIT*/
+/*RentIt_Get_Sys_Cars<MYEDIT*/
 ?>
 
 <div <?php post_class( $classes ); ?> class="thumbnail no-border no-padding thumbnail-car-card clearfix">
