@@ -665,7 +665,6 @@ $post_id = get_the_ID();
 					'description' => esc_html__('Will be applied regardless of the customer\'s choices on the booking form.', 'rentit')
 				)
 			);*/
-
 		woocommerce_wp_text_input(
 			array(
 				'id' => '_rentit_subtitle',

@@ -54,9 +54,10 @@ $post_id = get_the_ID();
 <!-- Car Listing -->
 <?php
 /*MYEDIT>*/
+//echo $post_id;
 if(function_exists('RentIt_Get_Sys_Cars_get_cars')){
-	$sys_product = RentIt_Get_Sys_Cars_get_cars($product);
-
+	$sys_product = RentIt_Get_Sys_Cars_get_cars($post_id);
+//echo $sys_product;
 	if($sys_product==false){
 		return;
 	}
