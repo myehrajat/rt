@@ -372,11 +372,15 @@ function initialize_new() {
     var bounds = new google.maps.LatLngBounds();
     var mapOptions2 = {
         zoom: parseInt(rentit_obj.zum),
-        minZoom: 3,
+		/*MYEDIT>RentIt_Google_Map*/
+		minZoom: mapOptionsVars.min_zoom,
+		maxZoom: mapOptionsVars.max_zoom,
+		/*RentIt_Google_Map<MYEDIT*/
         center: new google.maps.LatLng(parseFloat(rentit_obj.lat), parseFloat(rentit_obj.longu)),
         mapTypeId: google.maps.MapTypeId.ROADMAP,
-
-        mapTypeControl: false,
+		/*MYEDIT>RentIt_Google_Map*/
+		mapTypeControl: mapOptionsVars.map_map_type_control,
+		/*RentIt_Google_Map<MYEDIT*/
         mapTypeControlOptions: {
             style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
             position: google.maps.ControlPosition.LEFT_CENTER
@@ -400,7 +404,12 @@ function initialize_new() {
         },
 
         styles: [],//global_map_styles,
-        scrollwheel: false,
+		/*MYEDIT>RentIt_Google_Map*/
+        scaleControl: false,
+        //zoomControl: true,//mapOptionsVars.zoom_control,
+        scrollwheel: mapOptionsVars.zoom_scroll,
+		disableDoubleClickZoom: true,
+		/*RentIt_Google_Map<MYEDIT*/
     };
 
     var
@@ -565,14 +574,18 @@ function initialize_new() {
 
 function initialize_new2() {
 
-    var bounds = new google.maps.LatLngBounds();
+	var bounds = new google.maps.LatLngBounds();
     var mapOptions2 = {
         zoom: parseInt(rentit_obj.zum),
-        minZoom: 3,
+		/*MYEDIT>RentIt_Google_Map*/
+		minZoom: mapOptionsVars.min_zoom,
+		maxZoom: mapOptionsVars.max_zoom,
+		/*RentIt_Google_Map<MYEDIT*/
         center: new google.maps.LatLng(parseFloat(rentit_obj.lat), parseFloat(rentit_obj.longu)),
         mapTypeId: google.maps.MapTypeId.ROADMAP,
-
-        mapTypeControl: false,
+		/*MYEDIT>RentIt_Google_Map*/
+        mapTypeControl: mapOptionsVars.map_type_control,
+		/*RentIt_Google_Map<MYEDIT*/
         mapTypeControlOptions: {
             style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
             position: google.maps.ControlPosition.LEFT_CENTER
@@ -594,9 +607,13 @@ function initialize_new2() {
             position: google.maps.ControlPosition.LEFT_TOP
         },
         styles:  global_map_style,  //rentit_obj.global_map_styles,//global_map_styles,
-        zoomControl: false,
+		/*MYEDIT>RentIt_Google_Map*/
+        //zoomControl: false,
         scaleControl: false,
-        scrollwheel: false,
+        //scrollwheel: false,
+        zoomControl: mapOptionsVars.zoom_control,
+        scrollwheel: mapOptionsVars.zoom_scroll,
+		/*RentIt_Google_Map<MYEDIT*/
         disableDoubleClickZoom: true,
 
     };
