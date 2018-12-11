@@ -372,15 +372,11 @@ function initialize_new() {
     var bounds = new google.maps.LatLngBounds();
     var mapOptions2 = {
         zoom: parseInt(rentit_obj.zum),
-		/*MYEDIT>RentIt_Google_Map*/
-		minZoom: mapOptionsVars.min_zoom,
-		maxZoom: mapOptionsVars.max_zoom,
-		/*RentIt_Google_Map<MYEDIT*/
+        minZoom: 3,
         center: new google.maps.LatLng(parseFloat(rentit_obj.lat), parseFloat(rentit_obj.longu)),
         mapTypeId: google.maps.MapTypeId.ROADMAP,
-		/*MYEDIT>RentIt_Google_Map*/
-		mapTypeControl: mapOptionsVars.map_map_type_control,
-		/*RentIt_Google_Map<MYEDIT*/
+
+        mapTypeControl: false,
         mapTypeControlOptions: {
             style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
             position: google.maps.ControlPosition.LEFT_CENTER
@@ -404,13 +400,43 @@ function initialize_new() {
         },
 
         styles: [],//global_map_styles,
-		/*MYEDIT>RentIt_Google_Map*/
-        scaleControl: false,
-        //zoomControl: true,//mapOptionsVars.zoom_control,
-        scrollwheel: mapOptionsVars.zoom_scroll,
-		disableDoubleClickZoom: true,
-		/*RentIt_Google_Map<MYEDIT*/
+        scrollwheel: false,
     };
+	/*MYEDIT>RentIt_Google_Map*/
+	/*Frontend map*/
+	if(typeof mapOptionsVars !== 'undefined'){
+		if(mapOptionsVars.min_zoom != ''){
+			delete mapOptions2.minZoom;
+			Object.defineProperty(mapOptions2, 'minZoom', {
+				get: function () { return mapOptionsVars.min_zoom; }
+			});
+		}
+		if(mapOptionsVars.max_zoom != ''){
+			delete mapOptions2.maxZoom;
+			Object.defineProperty(mapOptions2, 'maxZoom', {
+				get: function () { return mapOptionsVars.max_zoom; }
+			});
+		}
+		if(mapOptionsVars.zoom_scroll != ''){
+			delete mapOptions2.scrollwheel;
+			Object.defineProperty(mapOptions2, 'scrollwheel', {
+				get: function () { return mapOptionsVars.zoom_scroll; }
+			});
+		}
+		if(mapOptionsVars.zoom_control != ''){
+			delete mapOptions2.zoomControl;
+			Object.defineProperty(mapOptions2, 'zoomControl', {
+				get: function () { return mapOptionsVars.zoom_control; }
+			});
+		}
+		if(mapOptionsVars.map_type_control != ''){
+			delete mapOptions2.mapTypeControl;
+			Object.defineProperty(mapOptions2, 'mapTypeControl', {
+				get: function () { return mapOptionsVars.map_type_control; }
+			});
+		}
+	}
+	/*RentIt_Google_Map<MYEDIT*/
 
     var
         marker;
@@ -574,18 +600,14 @@ function initialize_new() {
 
 function initialize_new2() {
 
-	var bounds = new google.maps.LatLngBounds();
+    var bounds = new google.maps.LatLngBounds();
     var mapOptions2 = {
         zoom: parseInt(rentit_obj.zum),
-		/*MYEDIT>RentIt_Google_Map*/
-		minZoom: mapOptionsVars.min_zoom,
-		maxZoom: mapOptionsVars.max_zoom,
-		/*RentIt_Google_Map<MYEDIT*/
+        minZoom: 3,
         center: new google.maps.LatLng(parseFloat(rentit_obj.lat), parseFloat(rentit_obj.longu)),
         mapTypeId: google.maps.MapTypeId.ROADMAP,
-		/*MYEDIT>RentIt_Google_Map*/
-        mapTypeControl: mapOptionsVars.map_type_control,
-		/*RentIt_Google_Map<MYEDIT*/
+
+        mapTypeControl: false,
         mapTypeControlOptions: {
             style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
             position: google.maps.ControlPosition.LEFT_CENTER
@@ -607,18 +629,49 @@ function initialize_new2() {
             position: google.maps.ControlPosition.LEFT_TOP
         },
         styles:  global_map_style,  //rentit_obj.global_map_styles,//global_map_styles,
-		/*MYEDIT>RentIt_Google_Map*/
-        //zoomControl: false,
+        zoomControl: false,
         scaleControl: false,
-        //scrollwheel: false,
-        zoomControl: mapOptionsVars.zoom_control,
-        scrollwheel: mapOptionsVars.zoom_scroll,
-		/*RentIt_Google_Map<MYEDIT*/
+        scrollwheel: false,
         disableDoubleClickZoom: true,
 
     };
+	/*MYEDIT>RentIt_Google_Map*/
+	/*Frontend map*/
+	if(typeof mapOptionsVars !== 'undefined'){
+		if(mapOptionsVars.min_zoom != ''){
+			delete mapOptions2.minZoom;
+			Object.defineProperty(mapOptions2, 'minZoom', {
+				get: function () { return mapOptionsVars.min_zoom; }
+			});
+		}
+		if(mapOptionsVars.max_zoom != ''){
+			delete mapOptions2.maxZoom;
+			Object.defineProperty(mapOptions2, 'maxZoom', {
+				get: function () { return mapOptionsVars.max_zoom; }
+			});
+		}
+		if(mapOptionsVars.zoom_scroll != ''){
+			delete mapOptions2.scrollwheel;
+			Object.defineProperty(mapOptions2, 'scrollwheel', {
+				get: function () { return mapOptionsVars.zoom_scroll; }
+			});
+		}
+		if(mapOptionsVars.zoom_control != ''){
+			delete mapOptions2.zoomControl;
+			Object.defineProperty(mapOptions2, 'zoomControl', {
+				get: function () { return mapOptionsVars.zoom_control; }
+			});
+		}
+		if(mapOptionsVars.map_type_control != ''){
+			delete mapOptions2.mapTypeControl;
+			Object.defineProperty(mapOptions2, 'mapTypeControl', {
+				get: function () { return mapOptionsVars.map_type_control; }
+			});
+		}
+	}
+	/*RentIt_Google_Map<MYEDIT*/
 
-    var
+	var
         marker;
 
     console.log(mapOptions2);
