@@ -445,7 +445,7 @@ function renita_style_scripts() {
 	/*MYEDIT>RentIt_Google_Map*/
 	global $mapOptionsVars;
 	if(isset($mapOptionsVars)){
-		wp_enqueue_script( 'rentit_maps_googleapis', 'https://maps.googleapis.com/maps/api/js?key='.$mapOptionsVars['api'].'&libraries=places&callback=initialize_map'.'&sensor='.$mapOptionsVars['sensor'].'&language='.$mapOptionsVars['language'],array( 'jquery' ), 3, true );
+		wp_enqueue_script( 'rentit_maps_googleapis', 'https://maps.googleapis.com/maps/api/js?key='.$mapOptionsVars['api'].'&libraries=places&callback=initialize_map'.'&language='.$mapOptionsVars['language'],array( 'jquery' ), 3, true );
 	}else{
 	/*RentIt_Google_Map<MYEDIT*/
 		wp_enqueue_script( 'rentit_maps_googleapis', 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCsbzuJDUEOoq-jS1HO-LUXW4qo0gW9FNs&libraries=places&callback=initialize_map',array( 'jquery' ), 3, true );
@@ -485,7 +485,7 @@ function renita_style_scripts_admin( $hook ) {
 			/*MYEDIT>RentIt_Google_Map*/
 			global $mapOptionsVars;
 			if(isset($mapOptionsVars)){
-				wp_enqueue_script( 'rentit_googleapis_js_places', "https://maps.googleapis.com/maps/api/js?key=". $mapOptionsVars['api'] . "&libraries=places&callback=initialize_map".'&sensor='.$mapOptionsVars['sensor'].'&language='.$mapOptionsVars['language'], array( 'jquery' ), false, true );
+				wp_enqueue_script( 'rentit_googleapis_js_places', "https://maps.googleapis.com/maps/api/js?key=". $mapOptionsVars['api'] . "&libraries=places&callback=initialize_map".'&language='.$mapOptionsVars['language'], array( 'jquery' ), false, true );
 			}else{
 			/*RentIt_Google_Map<MYEDIT*/
 				wp_enqueue_script( 'rentit_googleapis_js_places', "https://maps.googleapis.com/maps/api/js?key=AIzaSyCsbzuJDUEOoq-jS1HO-LUXW4qo0gW9FNs&libraries=places&callback=initialize_map", array( 'jquery' ), false, true );
