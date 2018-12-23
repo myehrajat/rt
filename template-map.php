@@ -285,12 +285,21 @@
                             if (isset($_GET['start_date']) && !empty($_GET['start_date']) && isset($_GET['start_date']) && !empty($_GET['start_date']) && rentit_plugin_activate()) {
 
                                 $start_date = strtotime(sanitize_text_field(urldecode($_GET['start_date'])));
+								/*MYEDIT>RentIt_Date_Changer*/
+								//var_dump($start_date);
+
+								if(function_exists('rentit_jalali_archive_product_narrower')){
+									$start_date = rentit_jalali_archive_product_narrower();
+								}
+								//var_dump($start_date);
+								/*RentIt_Date_Changer<MYEDIT*/
                                 $res = $wpdb->get_results(
                                     $wpdb->prepare("SELECT product_id  FROM `{$wpdb->prefix}rentit_booking` WHERE ( %d >=`dropin_date` AND %d <= `dropoff_date`)",
                                         $start_date,
                                         $start_date
                                     )
                                 );
+								
                                 foreach ($res as $item) {
                                     $rentit_new_arr['post__not_in'][] = $item->product_id;
                                 }
