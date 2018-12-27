@@ -1909,6 +1909,11 @@ function rentit_get_date_s_r( $name ) {
 function rentit_get_current_price_product( $product_id, $seson = true ) {
 	$sale_cost = get_post_meta( $product_id, "_sale_cost", true );
 	$base_price = get_post_meta( $product_id, "_base_cost", true );
+	/*MYEDIT>RentIt_Percentage_Discount*/
+	if(get_post_meta( $product_id, "_rentit_enable_month_percentage_discount", true )){
+		return RentIt_Percentage_Discount_return_price($product_id,$sale_cost,$base_price);
+	}
+	/*RentIt_Percentage_Discount<MYEDIT*/
 	if ( $seson ) {
 		$Season_price = get_post_meta( $product_id, "_base_cost_" . renit_getSeason(), true );
 	}

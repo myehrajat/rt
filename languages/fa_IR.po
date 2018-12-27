@@ -1,0 +1,3042 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: RentIt\n"
+"POT-Creation-Date: 2018-04-29 18:40+0430\n"
+"PO-Revision-Date: 2018-12-27 12:49+0000\n"
+"Last-Translator: myehrajat <ejarehkhodro@gmail.com>\n"
+"Language-Team: Persian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fa_IR\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: 404.php:18
+msgid "404"
+msgstr "خطای 404"
+
+#: 404.php:21
+msgid " Oops! The Page you requested was not found!rentit"
+msgstr ""
+"وای! صفحه درخواستی یافت نشد!\n"
+
+#: 404.php:25
+msgid " Back to Home"
+msgstr "بازگشت به صفحه اصلی"
+
+#: archive-portfolio.php:26 assets/customizer.php:521
+#: taxonomy-portfolio_categories.php:31
+msgid "Portfolio"
+msgstr "نمونه کارها"
+
+#: archive-portfolio.php:45 taxonomy-portfolio_categories.php:55
+msgid "All"
+msgstr "همه"
+
+#: assets/BFI_Thumb.php:416
+msgid "Image negate failed."
+msgstr "نفی تصویر ناموفق بود."
+
+#: assets/ajax-orders.php:33
+msgid "something wrong try again"
+msgstr "خطایی روی داده است. لطفا مجددا امتحان کنید."
+
+#: assets/ajax-orders.php:85
+msgid "time and the data is successfully updated"
+msgstr "تاریخ ، ساعت و اطلاعات بروز رسانی شدند."
+
+#: assets/ajax-orders.php:122 assets/ajax-orders.php:163
+#: assets/ajax-orders.php:219 woocommerce/content-single-product.php:263
+msgid "Free"
+msgstr "رایگان"
+
+#: assets/ajax-orders.php:126 assets/ajax-orders.php:167
+#: assets/ajax-orders.php:223
+#: inc/rentit-booking/includes/html-resources-blank.php:17
+#: inc/rentit-booking/includes/html-resources.php:18
+#: woocommerce/cart/cart-totals.php:94 woocommerce/cart/cart-totals.php:95
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:119
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/checkout/review-order.php:101
+#: woocommerce/content-single-product.php:250
+#: woocommerce/order/order-details.php:44
+msgid "Total"
+msgstr "جمع کل"
+
+#: assets/ajax-orders.php:130 assets/ajax-orders.php:171
+#: assets/ajax-orders.php:227
+#: inc/rentit-booking/includes/html-resources-blank.php:18
+#: inc/rentit-booking/includes/html-resources.php:19
+#: woocommerce/content-single-product.php:253
+msgid "Included"
+msgstr "شامل می باشد"
+
+#: assets/ajax-sent-mail.php:14
+msgid "No name entered"
+msgstr "نام را وارد کنید!"
+
+#: assets/ajax-sent-mail.php:19
+msgid "No email entered"
+msgstr "رایانامه را وارد کنید!"
+
+#: assets/ajax-sent-mail.php:24
+msgid "No subject entered"
+msgstr "موضوع را وارد کنید!"
+
+#: assets/ajax-sent-mail.php:39 woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr "نام"
+
+#: assets/ajax-sent-mail.php:43 woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr "رایانامه"
+
+#: assets/ajax-sent-mail.php:47
+msgid "Subject"
+msgstr "موضوع"
+
+#: assets/ajax-sent-mail.php:51
+msgid "Message"
+msgstr "پیام"
+
+#: assets/ajax-sent-mail.php:71
+msgid "Contact Form Submitted!"
+msgstr "پیام شما ارسال گردید پشیبانان ما در اسرع وقت پاسخ خواهند داد."
+
+#: assets/ajax-sent-mail.php:71
+msgid " We will be in touch soon"
+msgstr "به زودی با هم در ارتباط خواهیم بود"
+
+#: assets/ajax-sent-mail.php:74
+msgid "error"
+msgstr "خطا"
+
+#: assets/class-tgm-plugin-activation.php:334 assets/tgm.php:76
+msgid "Install Required Plugins"
+msgstr "نصب پلاگین های مورد نیاز"
+
+#: assets/class-tgm-plugin-activation.php:335 assets/tgm.php:77
+msgid "Install Plugins"
+msgstr "نصب پلاگین ها"
+
+#: assets/class-tgm-plugin-activation.php:337 assets/tgm.php:78
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "نصب پلاگین:٪ s"
+
+#: assets/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "در حال به روز رسانی افزونه: %s"
+
+#: assets/class-tgm-plugin-activation.php:340 assets/tgm.php:79
+msgid "Something went wrong with the plugin API."
+msgstr "در API افزونه اشتباه رخ داد."
+
+#: assets/class-tgm-plugin-activation.php:343 assets/tgm.php:80
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:349 assets/tgm.php:82
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "این تم پلاگین زیر را توصیه می کند:٪ 1 $ s."
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:355 assets/tgm.php:92
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"پلاگین زیر باید به آخرین نسخه آن بروزرسانی شود تا اطمینان حاصل شود حداکثر "
+"سازگاری با این موضوع:٪ 1 $ s."
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "بهروزرسانی موجود برای:٪ 1 $ s وجود دارد."
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:367 assets/tgm.php:86
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "پلاگین مورد نیاز در حال حاضر غیرفعال است:٪ 1 $ s."
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:373 assets/tgm.php:88
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "پلاگین توصیه شده زیر در حال حاضر غیرفعال است:٪ 1 $ s."
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:378 assets/tgm.php:96
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "نصب پلاگین ها را شروع کنید"
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "شروع به افزودن پلاگینها"
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:388 assets/tgm.php:97
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "شروع به فعال کردن افزونه"
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:392 assets/tgm.php:98
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت برای نصب پلاگین مورد نیاز"
+
+#: assets/class-tgm-plugin-activation.php:393
+#: assets/class-tgm-plugin-activation.php:912
+#: assets/class-tgm-plugin-activation.php:2618
+#: assets/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "بازگشت به صفحه"
+
+#: assets/class-tgm-plugin-activation.php:394
+#: assets/class-tgm-plugin-activation.php:3244 assets/tgm.php:99
+msgid "Plugin activated successfully."
+msgstr "پلاگین با موفقیت فعال شد"
+
+#: assets/class-tgm-plugin-activation.php:395
+#: assets/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "پلاگین زیر با موفقیت فعال شد:"
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "پلاگین٪ 1 $ s در حال حاضر فعال بود"
+
+#: assets/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"پلاگین فعال نشده است. نسخه بالاتر٪ s برای این موضوع مورد نیاز است. لطفا "
+"پلاگین را بهروزرسانی کنید.\n"
+
+#: assets/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "تمام پلاگینها با موفقیت نصب و فعال شدند."
+
+#: assets/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "این اطلاعیه را رد کنید"
+
+#: assets/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"یک یا چند پلاگین مورد نظر یا توصیه برای نصب، به روز رسانی یا فعال بودن وجود "
+"دارد."
+
+#: assets/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای کمک به سرپرست این سایت تماس بگیرید."
+
+#: assets/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه باید به روز شود تا با موضوع شما سازگار باشد."
+
+#: assets/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "بروز رسانی الزامی است!"
+
+#: assets/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"بسته پلاگین از راه دور حاوی پوشه ای با لوج دلخواه نیست و تغییر نام کار نمی "
+"کند."
+
+#: assets/class-tgm-plugin-activation.php:1019
+#: assets/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفا با ارائه دهنده پلاگین تماس بگیرید و از آنها بخواهید پلاگین خود را با "
+"توجه به دستورالعمل وردپرس بسته بندی کنند."
+
+#: assets/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"بسته پلاگین از راه دور شامل بیش از یک فایل است، اما فایل ها در یک پوشه بسته "
+"بندی نمی شوند."
+
+#: assets/class-tgm-plugin-activation.php:1206
+#: assets/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: assets/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: assets/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "الزامی"
+
+#: assets/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: assets/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "مخرن وردپرس"
+
+#: assets/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: assets/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "پیش بسته بندی شده"
+
+#: assets/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "نصب نشده است."
+
+#: assets/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "نصب شده اما فعال نشده است"
+
+#: assets/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "فعال"
+
+#: assets/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "به روز رسانی مورد نیاز در دسترس نیست"
+
+#: assets/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "نیاز به به روز رسانی"
+
+#: assets/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "بروز رسانی های پیشنهادی"
+
+#: assets/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: assets/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "آماده نصب <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "به روز رسانی در دسترس است. <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناخته"
+
+#: assets/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "نسخه نصب شده:"
+
+#: assets/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "حداقل نسخه مورد نیاز:"
+
+#: assets/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "نسخه موجود:"
+
+#: assets/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "بدون پلاگین برای نصب، به روز رسانی و یا فعال"
+
+#: assets/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "افزونه"
+
+#: assets/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "منبع"
+
+#: assets/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "نوع"
+
+#: assets/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "ورژن"
+
+#: assets/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "وضعیت"
+
+#: assets/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "نصب٪ 2 $ s"
+
+#: assets/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "به روز رسانی %2$s"
+
+#: assets/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "%2$s فعال کن"
+
+#: assets/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام را از نویسنده پلاگین ارتقا دهید"
+
+#: assets/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "نصب"
+
+#: assets/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "بروز رسانی"
+
+#: assets/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: assets/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"هیچ پلاگین برای نصب انتخاب نشد. اقدامات انجام نشده است\n"
+
+#: assets/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ پلاگین برای به روزرسانی انتخاب نشده است. اقدامات انجام نشده است"
+
+#: assets/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "در حال حاضر هیچ پلاگین برای نصب وجود ندارد"
+
+#: assets/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "هیچ پلاگین در حال حاضر در دسترس نیست."
+
+#: assets/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ پلاگین برای فعال شدن انتخاب نشده است. اقدامات انجام نشده است"
+
+#: assets/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "هیچ پلاگین در این زمان فعال نیست"
+
+#: assets/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "فعال سازی پلاگین خراب شد"
+
+#: assets/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "به روز رسانی پلاگین٪ 1 $ s (٪ 2 $ d /٪ 3 $ d)"
+
+#: assets/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "هنگام نصب نصب خطایی رخ داد %1$s: <strong>%2$s</strong>."
+
+#: assets/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "نصب٪ 1 $ s شکست خورده است."
+
+#: assets/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"روند نصب و فعال سازی شروع شده است. این فرآیند ممکن است در برخی از میزبانها "
+"طول بکشد، بنابراین لطفا صبور باشید."
+
+#: assets/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "٪ 1 $ با موفقیت نصب شده و فعال شده است."
+
+#: assets/class-tgm-plugin-activation.php:3594
+#: assets/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "نمایش جزییات"
+
+#: assets/class-tgm-plugin-activation.php:3594
+#: assets/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "مخفی کردن جزییات"
+
+#: assets/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "تمام تاسیسات و فعالسازی تکمیل شده است."
+
+#: assets/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعال سازی پلاگین٪ 1 $ s (٪ 2 $ d /٪ 3 $ d)"
+
+#: assets/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"روند نصب شروع شده است. این فرآیند ممکن است در برخی از میزبانها طول بکشد، "
+"بنابراین لطفا صبور باشید."
+
+#: assets/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "٪ 1 $ با موفقیت نصب شد"
+
+#: assets/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "تمام تاسیسات تکمیل شده اند."
+
+#: assets/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب پلاگین٪ 1 $ s (٪ 2 $ d /٪ 3 $ d)"
+
+#: assets/coment_walker.php:51
+msgid "Ago"
+msgstr "پیش"
+
+#: assets/coment_walker.php:77
+msgid "Edit this comment"
+msgstr "ویرایش این نظر"
+
+#: assets/coment_walker.php:79
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید ناظر می باشد و پس از تایید نمایش داده می شود."
+
+#: assets/customizer.php:12
+msgid "Blog Settings"
+msgstr "تنظیمات وبلاگ"
+
+#: assets/customizer.php:13 assets/customizer.php:18 assets/customizer.php:230
+msgid "Settings of the Blog"
+msgstr "تنظیمات وبلاگ"
+
+#: assets/customizer.php:17
+msgid "Shop Settings"
+msgstr "تنظیمات فروشگاه"
+
+#: assets/customizer.php:26 assets/customizer.php:34 assets/customizer.php:639
+#: assets/customizer.php:648
+msgid "Location sidebar"
+msgstr "نوار کناری محل سکونت"
+
+#: assets/customizer.php:39 assets/customizer.php:653
+msgid "Sidebar Left"
+msgstr "ابزارک ها سمت چپ"
+
+#: assets/customizer.php:40 assets/customizer.php:654
+msgid "Sidebar Right"
+msgstr "ابزارک ها سمت راست"
+
+#: assets/customizer.php:49 partials/related-post.php:86
+msgid "Related Posts"
+msgstr "پست های مرتبط"
+
+#: assets/customizer.php:57
+msgid "Enable Related Posts?"
+msgstr "فعال کردن پست های مرتبط"
+
+#: assets/customizer.php:68
+msgid "About the author"
+msgstr "درباره نویسنده"
+
+#: assets/customizer.php:76
+msgid "Enable About the author?"
+msgstr "فعال کردن درباره نویسنده؟"
+
+#: assets/customizer.php:88
+msgid "Blog list"
+msgstr "لیست وبلاگ"
+
+#: assets/customizer.php:93 content-gallery.php:34 content-image.php:13
+#: content-quote.php:11 content-standard.php:31 content-video.php:40
+#: content.php:22 content.php:72 functions.php:512
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: assets/customizer.php:96
+msgid "text button  Read More"
+msgstr "دکمه متن ادامه مطلب"
+
+#: assets/customizer.php:107
+msgid "Social Networks"
+msgstr "شبکه های اجتماعی"
+
+#: assets/customizer.php:109
+msgid "Enter url desired social networks so that they appear on the site"
+msgstr ""
+"آدرس های مورد نظر شبکه های اجتماعی مورد نظر خود را وارد کنید تا در سایت ظاهر "
+"شوند"
+
+#: assets/customizer.php:120
+msgid "Insert Social shortcode "
+msgstr "کد کوتاه اجتماعی را وارد کنید"
+
+#: assets/customizer.php:122
+msgid "its show in header"
+msgstr "نمایش آن در هدر"
+
+#: assets/customizer.php:134
+msgid "Google + url"
+msgstr "آدرس گوگل پلاس"
+
+#: assets/customizer.php:144
+msgid "Facebook  url"
+msgstr "آدرس فیسبوک"
+
+#: assets/customizer.php:153 footer.php:66 footer.php:131
+msgid "PINTEREST"
+msgstr "پینترست"
+
+#: assets/customizer.php:162 assets/customizer.php:173
+msgid "Twitter url"
+msgstr "آدرس توییتر"
+
+#: assets/customizer.php:184
+msgid "Twitter APP CONSUMER KEY"
+msgstr "توییتر APP کلید مصرف کننده"
+
+#: assets/customizer.php:195
+msgid "Twitter APP CONSUMER SECRET"
+msgstr "توییتر برنامه راز نیاز مصرف کنندگان"
+
+#: assets/customizer.php:207
+msgid "Facebook App ID (get it developers.facebook.com)"
+msgstr "فیس بوک شناسه برنامه (آن را developers.facebook.com دریافت کنید)"
+
+#: assets/customizer.php:218
+msgid "Facebook App Secret (get it developers.facebook.com)"
+msgstr "Facebook App Secret (get it developers.facebook.com)"
+
+#: assets/customizer.php:228
+msgid "Fonts"
+msgstr "فونت ها"
+
+#: assets/customizer.php:235
+msgid "Fonts for h1 h2 h3 h4 h5 h6"
+msgstr "فونت برای h1 h2 h3 h4 h5 h6"
+
+#: assets/customizer.php:238 assets/customizer.php:264
+#: assets/customizer.php:289
+msgid "Enter the url font google and font name"
+msgstr "فونت URL گوگل و نام فونت را وارد کنید"
+
+#: assets/customizer.php:243 assets/customizer.php:269
+#: assets/customizer.php:294
+msgid "url google fonts"
+msgstr "آدرس اینترنتی فونت های گوگل"
+
+#: assets/customizer.php:252 assets/customizer.php:278
+#: assets/customizer.php:303
+msgid "name google fonts"
+msgstr "نام فونت های گوگل"
+
+#: assets/customizer.php:261
+msgid "Fonts  (default Raleway) "
+msgstr "فونت (به طور پیش فرض Raleway)"
+
+#: assets/customizer.php:286
+msgid "Fonts for body (default Roboto) "
+msgstr "فونت برای بدن (به طور پیش فرض Roboto)"
+
+#: assets/customizer.php:314
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: assets/customizer.php:316
+msgid "Specify api key and ID list"
+msgstr "لیست کلیدی و شناسه api را مشخص کنید"
+
+#: assets/customizer.php:323
+msgid "ID list"
+msgstr "لیست شناسه"
+
+#: assets/customizer.php:332
+msgid "API key"
+msgstr "کلید API"
+
+#: assets/customizer.php:341 assets/customizer.php:348
+msgid "Enable RTL (beta)"
+msgstr "فعال سازی راستچین (فارسی نسخه بتا)"
+
+#: assets/customizer.php:358 assets/customizer.php:366
+msgid "Logo"
+msgstr "آرم"
+
+#: assets/customizer.php:360
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr "لوگو را برای جایگزینی نام و توضیحات سایت پیش فرض در هدر آپلود کنید"
+
+#: assets/customizer.php:380
+msgid "Map style"
+msgstr "تنظیمات نقشه"
+
+#: assets/customizer.php:382
+msgid ""
+"Map style JSON config (see https://snazzymaps.com, http://www.mapstylr."
+"com/showcase/ )"
+msgstr ""
+"برای تغییر ظاهری نقشه و داده های نقشه به صفحات ذیل مراجعه کنید. ( https:"
+"//snazzymaps.com, http://www.mapstylr.com/showcase/ )"
+
+#: assets/customizer.php:385
+msgid "stylemap_json"
+msgstr "تنظیمات نقشه"
+
+#: assets/customizer.php:396
+msgid "Coordinates map"
+msgstr "طول و عرض جغرافیایی"
+
+#: assets/customizer.php:403
+msgid "Zoom map"
+msgstr "میزان بزرگنمایی نقشه"
+
+#: assets/customizer.php:415 assets/customizer.php:663
+msgid "Other settings"
+msgstr "تنظیمات دیگر"
+
+#: assets/customizer.php:425
+msgid "Phone"
+msgstr "شماره تماس"
+
+#: assets/customizer.php:434
+msgid "Helping Center text"
+msgstr "متن \"مرکز پشتیبانی\""
+
+#: assets/customizer.php:444
+msgid "Url to Helping Center"
+msgstr "آدرس اینترنتی مرکز پشتیبانی"
+
+#: assets/customizer.php:454
+msgid "the date format in the calendar"
+msgstr "فرمت تاریخ در تقویم"
+
+#: assets/customizer.php:456
+msgid "MM/DD/YYYY H:mm or DD-MM-YYYY H:mm !!!"
+msgstr "YYYY/MM/DD H:mm or YYYY-MM-DD H:mm !!!"
+
+#: assets/customizer.php:465
+msgid "Select the calendar language"
+msgstr "زبان تقویم را انتخاب کنید"
+
+#: assets/customizer.php:467
+msgid "insert language  for example ru or es  "
+msgstr "وارد کردن زبان به عنوان مثال fa یا es"
+
+#: assets/customizer.php:477
+msgid "Color theme"
+msgstr "رنگ پوسته"
+
+#: assets/customizer.php:490
+msgid "Select color site"
+msgstr "رنگ سایت را انتخاب کنید"
+
+#: assets/customizer.php:506
+msgid "Custom color"
+msgstr "رنگ سفارشی"
+
+#: assets/customizer.php:531
+msgid "Select type of portfolio"
+msgstr "انتخاب نوع نمونه کارها"
+
+#: assets/customizer.php:536 assets/customizer.php:593
+msgid "standard"
+msgstr "استاندارد"
+
+#: assets/customizer.php:537
+msgid "4 col"
+msgstr "4 ستونه"
+
+#: assets/customizer.php:538
+msgid "Description under the picture"
+msgstr "توضیحات زیر تصویر"
+
+#: assets/customizer.php:547 assets/widgets.php:2000 assets/widgets.php:2043
+msgid "Filter"
+msgstr "پالایش"
+
+#: assets/customizer.php:558
+msgid "min Price in slider"
+msgstr "حداقل قیمت در اسلایدر قیمت"
+
+#: assets/customizer.php:568
+msgid "max Price in slider"
+msgstr "حداکثر قیمت در اسلایدر قیمت"
+
+#: assets/customizer.php:578
+msgid "Shop view"
+msgstr "نمایش فروشگاه"
+
+#: assets/customizer.php:588
+msgid "Select type of shop view"
+msgstr "نوع نمایش را انتخاب کنید"
+
+#: assets/customizer.php:594
+msgid "grid"
+msgstr "شبکه"
+
+#: assets/customizer.php:595
+msgid "grid 3 items"
+msgstr "شبکه 3 مورد"
+
+#: assets/customizer.php:612
+msgid "How many products display in shop?"
+msgstr "چگونه بسیاری از محصولات در فروشگاه نمایش داده شود؟"
+
+#: assets/customizer.php:625
+msgid "show all product in page?"
+msgstr "همه محصول را در صفحه نشان می دهد؟"
+
+#: assets/customizer.php:671 assets/page_map_get_marker.php:132
+#: functions.php:516 partials/car-list1.php:57
+#: woocommerce/content-product.php:220
+msgid "Rent It"
+msgstr "رزرو خودرو"
+
+#: assets/customizer.php:674
+msgid " Rent It text"
+msgstr "متن اجاره خودرو"
+
+#: assets/customizer.php:685
+msgid "COMING SOON"
+msgstr "به زودی"
+
+#: assets/customizer.php:695
+msgid "Enable COMING SOON  mode ?"
+msgstr "فعال شدن حالت به زودی؟"
+
+#: assets/customizer.php:707
+msgid "Enter Year (for example 2018)"
+msgstr "سال را وارد کنید (برای مثال 1370)"
+
+#: assets/customizer.php:718
+msgid "Enter month (for example 12)"
+msgstr "ماه را وارد کنید (برای مثال 12)"
+
+#: assets/customizer.php:729
+msgid "Enter day (for example 25)"
+msgstr "تعداد روز را وارد کنید (مثلا 25)"
+
+#: assets/customizer.php:742
+msgid "Performance"
+msgstr "کارایی"
+
+#: assets/customizer.php:752
+msgid "Enable preloader ?"
+msgstr "نمایش متن و تصویر در حال باگذاری ...؟"
+
+#: assets/customizer.php:766
+msgid "Footer"
+msgstr "پانوشت"
+
+#: assets/customizer.php:776
+msgid "Footer copyright"
+msgstr "کپی رایت پانوشت"
+
+#: assets/customizer.php:788
+msgid "Enable Footer widgets on all pages?"
+msgstr "فعال کردن ویدجت پاورقی در همه صفحات؟"
+
+#: assets/customizer.php:803 assets/customizer.php:813
+msgid "Contact form shortcode"
+msgstr "کد کوتاه تماس با ما"
+
+#: assets/mailchimp.php:16
+msgid "You have incorrect id list "
+msgstr "شما لیست شناسه نادرست دارید"
+
+#: assets/mailchimp.php:25
+msgid "You have incorrect API key  "
+msgstr "API شما اشتباه است"
+
+#: assets/mailchimp.php:44
+msgid "Email Submitted! You subscribe as  "
+msgstr ""
+"ایمیل ارسال شده! شما مشترک به عنوان\n"
+
+#: assets/mega_menu.php:69 assets/mega_menu.php:75
+msgid "Color"
+msgstr "رنگ"
+
+#: assets/mega_menu.php:81
+msgid "checkbox"
+msgstr "کادر تأیید"
+
+#: assets/mega_menu.php:179
+msgid "Enable megamenu?"
+msgstr "فعال کردن مگا؟"
+
+#: assets/metaboxes.php:11
+msgid "Page sittings"
+msgstr "جلسات صفحه"
+
+#: assets/metaboxes.php:18 single-portfolio.php:64
+msgid "Client"
+msgstr "مشتری"
+
+#: assets/metaboxes.php:94
+msgid "Small footer"
+msgstr "پانوشت کوچک"
+
+#: assets/metaboxes.php:101
+msgid "breadcrumbs aling"
+msgstr "breadcrumbs aling"
+
+#: assets/metaboxes.php:107
+msgid "right"
+msgstr "راست"
+
+#: assets/metaboxes.php:109
+msgid "center"
+msgstr "مرکز"
+
+#: assets/metaboxes.php:111
+msgid "left"
+msgstr "چپ"
+
+#: assets/metaboxes.php:116
+msgid "Shortcode for footer"
+msgstr "کوتاه برای بالا و پایین صفحه"
+
+#: assets/page_map_get_marker.php:129
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1110
+#: partials/car-list1.php:68 woocommerce/content-product.php:176
+msgid "Auto"
+msgstr "اتوماتیک"
+
+#: assets/page_map_get_marker.php:130
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1100
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1101
+#: partials/car-list1.php:65 woocommerce/content-product.php:173
+msgid "Diesel"
+msgstr "دیزل"
+
+#: assets/style_scripts.php:402
+msgid "Error: Activate rentit plugin!"
+msgstr "خطا: پلاگین اجاره ای را فعال کنید!"
+
+#: assets/tgm.php:84
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"متاسفیم، اما مجوزهای صحیح برای نصب پلاگین٪ s ندارید. برای دریافت راهنمایی در "
+"مورد نصب افزونه، با سرپرست این سایت تماس بگیرید."
+msgstr[1] ""
+
+#: assets/tgm.php:90
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"با عرض پوزش، اما مجوزهای صحیح برای فعال کردن پلاگین٪ s ندارید جهت دریافت "
+"پلاگین فعال، با سرپرست این سایت تماس بگیرید."
+msgstr[1] ""
+
+#: assets/tgm.php:94
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"با عرض پوزش، اما مجوزهای صحیح برای به روزرسانی پلاگین٪ s ندارید برای دریافت "
+"راهنمایی در مورد به روز شدن افزونه ها، با سرپرست این سایت تماس بگیرید.\n"
+msgstr[1] ""
+
+#: assets/tgm.php:100
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "تمام پلاگینها با موفقیت نصب و فعال شدند."
+
+#: assets/widgets.php:49
+msgid "Rent It Search"
+msgstr "اجاره خودرو را جستجو کنید"
+
+#: assets/widgets.php:50
+msgid "It displays a Search form"
+msgstr "این یک فرم جستجو را نمایش می دهد"
+
+#: assets/widgets.php:66 assets/widgets.php:148 assets/widgets.php:295
+#: assets/widgets.php:460 assets/widgets.php:613 assets/widgets.php:742
+#: assets/widgets.php:869 assets/widgets.php:1010 assets/widgets.php:1150
+#: assets/widgets.php:1361 assets/widgets.php:1419 assets/widgets.php:1591
+#: assets/widgets.php:1713 assets/widgets.php:2010 assets/widgets.php:2162
+msgid "Title:"
+msgstr "عنوان:"
+
+#: assets/widgets.php:95 assets/widgets.php:114 searchform.php:6
+msgid "Search"
+msgstr "جستجو"
+
+#: assets/widgets.php:130
+msgid "Rent It CATEGORIES"
+msgstr "برند خودرو ها"
+
+#: assets/widgets.php:131
+msgid "It displays a Categories list "
+msgstr "لیستی از خودروهای یک برند را نمایش می دهد."
+
+#: assets/widgets.php:155 assets/widgets.php:264
+msgid "CATEGORIES"
+msgstr "برند خودرو"
+
+#: assets/widgets.php:175
+msgid "Categories"
+msgstr "برند خودرو"
+
+#: assets/widgets.php:274
+msgid "Rent It  Tweets"
+msgstr "توییت ها"
+
+#: assets/widgets.php:275
+msgid "It displays a list of tweets"
+msgstr "لیستی از توییت ها را نشان می دهد."
+
+#: assets/widgets.php:278 assets/widgets.php:1133 assets/widgets.php:1394
+msgid "Rent It Tweets"
+msgstr "توییتر اجاره خودرو"
+
+#: assets/widgets.php:305
+msgid "Name:"
+msgstr "نام:"
+
+#: assets/widgets.php:316
+msgid "How many show Tweets?"
+msgstr ""
+"چند نفر تویت را نشان می دهند؟\n"
+
+#: assets/widgets.php:346
+msgid "TWEETS"
+msgstr "توییت ها"
+
+#: assets/widgets.php:409 woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr "پیش"
+
+#: assets/widgets.php:441
+msgid "Rent It  ARCHIVES"
+msgstr "بایگانی رزرو خودرو"
+
+#: assets/widgets.php:442
+msgid "It displays a list of ARCHIVES"
+msgstr "این یک لیست از آرشیو را نمایش می دهد"
+
+#: assets/widgets.php:445
+msgid "Rent It ARCHIVES"
+msgstr "بایگانی"
+
+#: assets/widgets.php:466
+msgid "How show post in months?"
+msgstr "چگونه ماه ها نشان می دهد؟"
+
+#: assets/widgets.php:485
+msgid "archives"
+msgstr "بایگانی"
+
+#: assets/widgets.php:492 assets/widgets.php:672 assets/widgets.php:779
+msgid "Archives"
+msgstr "بایگانی"
+
+#: assets/widgets.php:585 assets/widgets.php:589
+msgid "Rent It Helping Center"
+msgstr "مرکز پشتیبانی"
+
+#: assets/widgets.php:586
+msgid "It displays a Helping Center"
+msgstr "مرکز پشتیبانی را نمایش می دهد."
+
+#: assets/widgets.php:602
+msgid " HELPING CENTER"
+msgstr "مرکز پشتیبانی"
+
+#: assets/widgets.php:603 assets/widgets.php:663
+msgid ""
+"Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec "
+"eros."
+msgstr "پشتیبانی 24 ساعت درصورت بروز مشکل تماس حاصل نمایید."
+
+#: assets/widgets.php:620
+msgid "Text:"
+msgstr "متن:"
+
+#: assets/widgets.php:630
+msgid "Phone number"
+msgstr "شماره تماس"
+
+#: assets/widgets.php:638
+msgid "email:"
+msgstr "پست الکترونیک:"
+
+#: assets/widgets.php:644
+msgid "url:"
+msgstr "وبگاه:"
+
+#: assets/widgets.php:662
+msgid "HELPING CENTER"
+msgstr "مرکز پشتیبانی"
+
+#: assets/widgets.php:690
+msgid "Support Center"
+msgstr "مرکز پشتیبانی"
+
+#: assets/widgets.php:715 assets/widgets.php:719
+msgid "Rent It TESTIMONIALS"
+msgstr "گواهی اجاره خودرو "
+
+#: assets/widgets.php:716
+msgid "It displays a TESTIMONIALS"
+msgstr "این نمایش TESTIMONIALS را نشان می دهد"
+
+#: assets/widgets.php:732 assets/widgets.php:771
+msgid "TESTIMONIALS"
+msgstr "سیاست ها و راهبردها"
+
+#: assets/widgets.php:749 assets/widgets.php:1160 assets/widgets.php:1429
+msgid "text:"
+msgstr "متن:"
+
+#: assets/widgets.php:845 assets/widgets.php:849
+msgid "Rent It TAG"
+msgstr "اجاره خودرو را TAG کنید"
+
+#: assets/widgets.php:846
+msgid "It displays a list of TAG"
+msgstr "این یک لیست از TAG را نمایش می دهد"
+
+#: assets/widgets.php:876
+msgid "Select type tag"
+msgstr "نوع برچسب را انتخاب کنید"
+
+#: assets/widgets.php:880
+msgid "Post tags"
+msgstr "تگ های پست"
+
+#: assets/widgets.php:884
+msgid "Product tags"
+msgstr "برچسب های محصول"
+
+#: assets/widgets.php:902
+msgid "TAGS"
+msgstr "برچسب ها"
+
+#: assets/widgets.php:910
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: assets/widgets.php:986 assets/widgets.php:990
+msgid "Rent It Flickr Images"
+msgstr "اجاره خودرو تصاویر فلیکر"
+
+#: assets/widgets.php:987
+msgid "It displays a list of Flickr Images"
+msgstr "این لیستی از تصاویر Flickr را نمایش می دهد"
+
+#: assets/widgets.php:1002 assets/widgets.php:1045 assets/widgets.php:1054
+#: assets/widgets.php:1107 assets/widgets.php:1111
+msgid "FLICKR IMAGES"
+msgstr "تصاویر فلیکر"
+
+#: assets/widgets.php:1017
+msgid "How many show images? (max 10)"
+msgstr "چند تصویر نشان می دهد؟ (حداکثر 10)"
+
+#: assets/widgets.php:1025
+msgid "user id fliker"
+msgstr "آی دی فلیکر"
+
+#: assets/widgets.php:1129
+msgid "Rent It ABOUT_US"
+msgstr "درباره ما"
+
+#: assets/widgets.php:1130
+msgid "It displays ABOUT_US"
+msgstr "این نمایش تماس با ما را نمایش می دهد"
+
+#: assets/widgets.php:1172
+msgid "Show social network link?"
+msgstr "نمایش لینک شبکه اجتماعی؟"
+
+#: assets/widgets.php:1195
+msgid "ABOUT US"
+msgstr "درباره ما"
+
+#: assets/widgets.php:1252 assets/widgets.php:1256
+msgid "Rent It Menu"
+msgstr "منو اجاره خودرو"
+
+#: assets/widgets.php:1253
+msgid "It displays Menu"
+msgstr "این منو را نمایش می دهد"
+
+#: assets/widgets.php:1354
+msgid "No menus have been created yet."
+msgstr "منوها هنوز ایجاد نشده است."
+
+#: assets/widgets.php:1354
+msgid "Create some"
+msgstr "ایجاد برخی از:"
+
+#: assets/widgets.php:1354
+#, php-format
+msgid "<a href=\"%s\">"
+msgstr "<a href=\"%s\">"
+
+#: assets/widgets.php:1369
+msgid "Select Menu:"
+msgstr "منو را انتخاب کنید:"
+
+#: assets/widgets.php:1372
+msgid "&mdash; Select &mdash;"
+msgstr "— انتخاب کنید—"
+
+#: assets/widgets.php:1390
+msgid "Rent It NEWS LETTER"
+msgstr "خبرنامه"
+
+#: assets/widgets.php:1391
+msgid "It displays NEWS LETTER"
+msgstr "خبرنامه را نمایش می دهد."
+
+#: assets/widgets.php:1407 assets/widgets.php:1474
+msgid "NEWS LETTER"
+msgstr "خبرنامه"
+
+#: assets/widgets.php:1409 assets/widgets.php:1476 assets/widgets.php:1616
+msgid "Enter Your Mail and Get $10 Cash"
+msgstr "نامه خود را وارد کنید و پول 10 هزار تومان دریافت کنید"
+
+#: assets/widgets.php:1410 assets/widgets.php:1477 assets/widgets.php:1617
+msgid "Subscribe"
+msgstr "عضویت"
+
+#: assets/widgets.php:1439
+msgid "Text placeholder:"
+msgstr "Text placeholder:"
+
+#: assets/widgets.php:1450
+msgid "Text button:"
+msgstr "دکمه متن:"
+
+#: assets/widgets.php:1564 assets/widgets.php:1568
+msgid "Rent It ITEM TAGS"
+msgstr "اجاره خودرو برچسب ITEM"
+
+#: assets/widgets.php:1565
+msgid "It displays ITEM TAGS"
+msgstr "نمایش برچسب ها ITEM"
+
+#: assets/widgets.php:1581 assets/widgets.php:1614
+msgid "ITEM TAGS"
+msgstr "برچسب های ITEM"
+
+#: assets/widgets.php:1686
+msgid "Rent It FIND BEST RENTAL CAR"
+msgstr "جستجوی خودرو"
+
+#: assets/widgets.php:1687
+msgid "It displays Filter BEST RENTAL CAR"
+msgstr "جستجوی خودرو را نمایش می دهد."
+
+#: assets/widgets.php:1703 assets/widgets.php:1737
+msgid "FIND BEST RENTAL CAR"
+msgstr "جستجوی خودرو"
+
+#: assets/widgets.php:1762 assets/widgets.php:2269 assets/widgets.php:2697
+#: template-map.php:161 woocommerce/content-single-product.php:412
+msgid "Picking Up Location"
+msgstr "محل تحویل"
+
+#: assets/widgets.php:1765
+msgid "Picking Up From"
+msgstr "تحویل خودرو در"
+
+#: assets/widgets.php:1783 assets/widgets.php:2716
+#: woocommerce/content-single-product.php:453
+msgid "Dropping Off Location"
+msgstr "محل عودت"
+
+#: assets/widgets.php:1786
+msgid "Dropping Off To"
+msgstr "پیاده کردن به"
+
+#: assets/widgets.php:1806 assets/widgets.php:2736
+msgid " Picking Up Date"
+msgstr "تاریخ تحویل"
+
+#: assets/widgets.php:1809 assets/widgets.php:2743 assets/widgets.php:2764
+#: template-map.php:207 template-map.php:222
+#: woocommerce/content-single-product.php:523
+#: woocommerce/content-single-product.php:539
+#: woocommerce/content-single-product.php:555
+#: woocommerce/content-single-product.php:578
+#: woocommerce/content-single-product.php:594
+msgid "dd/mm/yyyy"
+msgstr "yyyy/mm/dd"
+
+#: assets/widgets.php:1847
+msgid "Select type"
+msgstr "انتخاب کلاس خودرو"
+
+#: assets/widgets.php:1866 assets/widgets.php:1935
+msgid "Select"
+msgstr "انتخاب کنید"
+
+#: assets/widgets.php:1910
+msgid "Select Category"
+msgstr "انتخاب برند خودرو"
+
+#: assets/widgets.php:1959
+msgid "Find"
+msgstr "جستجو"
+
+#: assets/widgets.php:1982
+msgid "Rent IT PRICE filter"
+msgstr "پالایش قیمت"
+
+#: assets/widgets.php:1983
+msgid "It displays Filter price"
+msgstr "پالایش قیمت را نمایش می دهد."
+
+#: assets/widgets.php:1999 assets/widgets.php:2042
+msgid "PRICE"
+msgstr "قیمت"
+
+#: assets/widgets.php:2020
+msgid "text_button:"
+msgstr "متن _ دکمه:"
+
+#: assets/widgets.php:2134
+msgid "Rent IT DETAIL RESERVATION"
+msgstr "اجاره خودرو رزرو DETAIL"
+
+#: assets/widgets.php:2135
+msgid "It displays DETAIL RESERVATION"
+msgstr "نمایش جزئیات رزرو"
+
+#: assets/widgets.php:2151 assets/widgets.php:2184
+msgid "DETAIL RESERVATION"
+msgstr "جزییات رزرو خودرو"
+
+#: assets/widgets.php:2280 assets/widgets.php:2292
+msgid "From"
+msgstr "از"
+
+#: assets/widgets.php:2283
+msgid "Droping Off Location"
+msgstr "حذف کردن محل سکونت"
+
+#: assets/widgets.php:2307
+msgid "You have not selected any car..."
+msgstr "شما خودرویی را انتخاب نکرده اید!"
+
+#: assets/widgets.php:2334
+msgid "Rent IT Cars Tab"
+msgstr "اجاره اتومبیل تب بندی"
+
+#: assets/widgets.php:2335
+msgid "It displays product"
+msgstr "این محصول را نمایش می دهد"
+
+#: assets/widgets.php:2351 assets/widgets.php:2408 assets/widgets.php:2557
+#: assets/widgets.php:2596 assets/widgets.php:2653
+msgid "View More"
+msgstr "بیشتر"
+
+#: assets/widgets.php:2364 assets/widgets.php:2609
+msgid "How showas items?"
+msgstr "چطور آیتم های نمایش داده می شود؟"
+
+#: assets/widgets.php:2374 assets/widgets.php:2619
+msgid "Insert url View More "
+msgstr "URL را وارد کنید نمایش بیشتر"
+
+#: assets/widgets.php:2384 assets/widgets.php:2629
+msgid "View More text"
+msgstr "ادامه مطلب"
+
+#: assets/widgets.php:2424
+msgid "Top"
+msgstr "برو به بالا"
+
+#: assets/widgets.php:2428
+msgid "Sale Off"
+msgstr "حراج"
+
+#: assets/widgets.php:2578
+msgid "Rent order manager"
+msgstr "مدیر اجاره سفارش"
+
+#: assets/widgets.php:2579
+msgid "order manager"
+msgstr "مدیر سفارش"
+
+#: assets/widgets.php:2672 assets/widgets.php:2784
+msgid "RESERVE"
+msgstr "معکوس"
+
+#: assets/widgets.php:2676
+msgid "MODIFY"
+msgstr "ویرایش"
+
+#: assets/widgets.php:2700 assets/widgets.php:2723 template-map.php:165
+#: template-map.php:183 woocommerce/content-single-product.php:415
+#: woocommerce/content-single-product.php:457
+msgid "Airport or Anywhere"
+msgstr "از فرودگاه به هر جایی که میخواهید"
+
+#: assets/widgets.php:2757 woocommerce/content-single-product.php:536
+#: woocommerce/content-single-product.php:591
+#: woocommerce/order/order-details.php:98
+msgid "Dropping Off Date"
+msgstr "تاریخ عودت"
+
+#: assets/widgets.php:2780
+msgid " Advanced Search"
+msgstr "جستجو پیشرفته"
+
+#: category.php:23 template-blog.php:27
+msgid "Blog"
+msgstr "وبگاه"
+
+#: category.php:27 functions.php:1103 page.php:29 single.php:34
+#: taxonomy-portfolio_categories.php:35 template-blog.php:31
+#: template-fullwidth-breadcrumb.php:35 template-login.php:30
+msgid "Home"
+msgstr "خانه"
+
+#: comments.php:22 page.php:65 single.php:108
+msgid "Comments"
+msgstr "نظرات"
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr "نظرات بسته است."
+
+#: comments.php:48
+msgid "Submit Your Comment"
+msgstr "نظر بدهید!"
+
+#: comments.php:62 comments.php:63
+msgid "Your name and surname"
+msgstr "نام و نام خانوادگی"
+
+#: comments.php:66 comments.php:67
+msgid "Your email adress"
+msgstr "آدرس رایانامه"
+
+#: comments.php:71 comments.php:73
+msgid "Your message"
+msgstr "پیام"
+
+#: comments.php:80
+msgid "Cancel reply"
+msgstr "انصراف از پاسخ"
+
+#: comments.php:81
+msgid "Post Comment"
+msgstr "ارسال نظر"
+
+#: comments.php:85
+msgid "Send Commentrentit"
+msgstr "Send Commentrentit"
+
+#: footer.php:54 footer.php:119
+msgid "FACEBOOK"
+msgstr "فیسبوک"
+
+#: footer.php:60 footer.php:125
+msgid "TWITTER"
+msgstr "توییتر"
+
+#: footer.php:72 footer.php:137
+msgid "google"
+msgstr "گوگل"
+
+#: footer.php:87 footer.php:150
+msgid ""
+"  Rent It — An One Page Rental Car Theme made with passion by\n"
+"                                jThemes Studio1"
+msgstr ""
+"طراحی وتوسعه توسط اجاره خودرو طباطبایی\n"
+"کلیه حقوق مادی و معنوی محفوظ است."
+
+#: functions.php:108
+msgid "Header menu"
+msgstr "منوی سربرگ"
+
+#: functions.php:249
+msgid "sidebar"
+msgstr "ابزارک"
+
+#: functions.php:257
+msgid "sidebar shop"
+msgstr "نوار کناری فروشگاه "
+
+#: functions.php:265
+msgid "sidebar booking "
+msgstr "ابزارک ها صفحه رزرو"
+
+#: functions.php:273
+msgid "sidebar page"
+msgstr "ابزارک های صفحه"
+
+#: functions.php:281
+msgid "Footer area"
+msgstr "مجدوده پانوشت"
+
+#: functions.php:387
+msgid "Comment is empty"
+msgstr "نظر خود را بنویسید!"
+
+#: functions.php:391
+msgid "Comment more than 200 characters"
+msgstr "نظر بیش از 200 حرف است!"
+
+#: functions.php:600
+msgid "Enter the place name"
+msgstr "نام مکان را وارد کنید"
+
+#: functions.php:664
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "بر"
+
+#: functions.php:781 functions.php:2487 woocommerce/myaccount/orders.php:120
+msgid "Previous"
+msgstr "قبلی"
+
+#: functions.php:783 functions.php:2489 woocommerce/myaccount/orders.php:124
+msgid "Next"
+msgstr "بعدی"
+
+#: functions.php:912
+msgid "Start from"
+msgstr "اجاره بها : "
+
+#: functions.php:914
+msgid " / per day"
+msgstr "/ روزانه"
+
+#: functions.php:1025 functions.php:1027 functions.php:1029 functions.php:1031
+msgid " - "
+msgstr "-"
+
+#: functions.php:1047
+msgid " total day(s) : "
+msgstr "جمع اجاره روز : "
+
+#: functions.php:1049
+msgid " total extra hour(s) : "
+msgstr "تاخیر : "
+
+#: functions.php:1051
+msgid "total : "
+msgstr "جمع کل : "
+
+#: functions.php:1058 functions.php:1062 functions.php:1066
+msgid " / "
+msgstr "/"
+
+#: functions.php:1072 functions.php:1077
+msgid " day(s) "
+msgstr " روز "
+
+#: functions.php:1074 functions.php:1081
+msgid " hour(s) "
+msgstr " ساعت "
+
+#: functions.php:1079
+msgid " and "
+msgstr " و "
+
+#: functions.php:1851
+msgid "Please select another date."
+msgstr ""
+"لطفا یک تاریخ دیگر را انتخاب کنید.\n"
+
+#: functions.php:1882 functions.php:1899 functions.php:1909
+msgid "Minimum rental period of days"
+msgstr "حداقل دوره اجاره خودرو"
+
+#: functions.php:1882 functions.php:1900
+msgid "Maximum rental period in days"
+msgstr "حداکثر دوره اجاره خودرو"
+
+#: functions.php:1915
+msgid "Maximum rental period in days "
+msgstr "حداکثر دوره اجاره خودرو"
+
+#: functions.php:1924 functions.php:1935
+msgid "Minimum rental period of hours"
+msgstr "حداقل دوره اجاره ساعت"
+
+#: functions.php:1925
+msgid "Maximum rental period in hours"
+msgstr "حداکثر دوره اجاره در ساعت"
+
+#: functions.php:1941
+msgid "Maximum rental period in hours "
+msgstr "حداکثر مدت اجاره در ساعت"
+
+#: functions.php:1956
+msgid "Please provide Picking Up Location location."
+msgstr "لطفا محل تحویل را مشخص کنید!"
+
+#: functions.php:1963
+msgid "Please provide correct Picking Up Location "
+msgstr "لطفا محل تحویل را به صورت صحیح مشخص کنید!"
+
+#: functions.php:1973
+msgid "Please provide Dropping Off Location"
+msgstr "لطفا محل عودت را مشخص کنید!"
+
+#: functions.php:1978
+msgid "Please provide correct Dropping Off Location."
+msgstr "لطفا محل عودت را به صورت صحیح مشخص کنید!"
+
+#: functions.php:1985
+msgid "Please provide drop-in date."
+msgstr "لطفا تاریخ افتتاح کنید."
+
+#: functions.php:1991
+msgid "Please provide drop-off date."
+msgstr "لطفا تاریخ افتتاح را ارائه کنید"
+
+#: functions.php:2003
+msgid "Minimum quantity is "
+msgstr "حداقل مقدار است"
+
+#: functions.php:2400
+msgid " /for 1 day(s)"
+msgstr "/ روزانه"
+
+#: header.php:21 template-coming-soon.php:28 template-map.php:25
+msgid "Loading"
+msgstr "در حال بارگذاری ..."
+
+#: inc/rentit-booking/class-rentit-booking-admin.php:69
+msgid "Car rental product"
+msgstr "خودرو اجاره ایی"
+
+#: inc/rentit-booking/includes/html-car-locations-blank.php:5
+#: inc/rentit-booking/includes/html-car-locations-blank.php:8
+#: inc/rentit-booking/includes/html-car-locations.php:5
+#: inc/rentit-booking/includes/html-car-locations.php:15
+msgid "Address"
+msgstr "آدرس"
+
+#: inc/rentit-booking/includes/html-car-locations-blank.php:10
+#: inc/rentit-booking/includes/html-car-locations.php:21
+#: inc/rentit-booking/includes/html-discounts-blank.php:17
+#: inc/rentit-booking/includes/html-discounts.php:21
+#: inc/rentit-booking/includes/html-resources-blank.php:29
+#: inc/rentit-booking/includes/html-resources.php:35
+#: inc/rentit-booking/includes/html-season-date-blank.php:61
+#: inc/rentit-booking/includes/html-season-date-blank.php:83
+#: inc/rentit-booking/includes/html-season-date.php:79
+#: inc/rentit-booking/includes/html-season-date.php:101
+#: inc/rentit-booking/includes/html-sesonal-discounts-blank.php:18
+#: inc/rentit-booking/includes/html-unavailable_date.php:20
+#: inc/rentit-booking/includes/html-unavailable_date_blank.php:19
+msgid "x"
+msgstr "×"
+
+#: inc/rentit-booking/includes/html-discounts-blank.php:3
+#: inc/rentit-booking/includes/html-discounts.php:4
+#: inc/rentit-booking/includes/html-resources-blank.php:9
+#: inc/rentit-booking/includes/html-resources.php:10
+#: inc/rentit-booking/includes/html-season-date-blank.php:39
+#: inc/rentit-booking/includes/html-season-date.php:38
+#: inc/rentit-booking/includes/html-sesonal-discounts-blank.php:3
+msgid "Cost"
+msgstr "قیمت"
+
+#: inc/rentit-booking/includes/html-discounts-blank.php:11
+#: inc/rentit-booking/includes/html-discounts.php:13
+#: inc/rentit-booking/includes/html-resources-blank.php:15
+#: inc/rentit-booking/includes/html-resources.php:16
+#: inc/rentit-booking/includes/html-season-date-blank.php:53
+#: inc/rentit-booking/includes/html-season-date.php:72
+#: inc/rentit-booking/includes/html-sesonal-discounts-blank.php:12
+msgid "Hour(s)"
+msgstr "ساعت"
+
+#: inc/rentit-booking/includes/html-discounts-blank.php:12
+#: inc/rentit-booking/includes/html-discounts.php:15
+#: inc/rentit-booking/includes/html-resources-blank.php:16
+#: inc/rentit-booking/includes/html-resources.php:17
+#: inc/rentit-booking/includes/html-season-date-blank.php:55
+#: inc/rentit-booking/includes/html-season-date.php:74
+#: inc/rentit-booking/includes/html-sesonal-discounts-blank.php:13
+msgid "Day(s)"
+msgstr "روز"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:3
+#: inc/rentit-booking/includes/html-resources.php:4
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1045
+msgid "Item name"
+msgstr "نام آیتم"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:6
+#: inc/rentit-booking/includes/html-resources.php:7
+msgid "Qty"
+msgstr "تعداد"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:19
+#: inc/rentit-booking/includes/html-resources.php:20
+msgid "Fixed charge"
+msgstr "هزینه ثابت"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:25
+#: inc/rentit-booking/includes/html-resources.php:31
+msgid "No"
+msgstr "خیر"
+
+#: inc/rentit-booking/includes/html-resources-blank.php:26
+#: inc/rentit-booking/includes/html-resources.php:32
+msgid "Yes"
+msgstr "بله"
+
+#: inc/rentit-booking/includes/html-season-date-blank.php:40
+#: inc/rentit-booking/includes/html-season-date.php:39
+#: inc/rentit-booking/includes/rentit-rental-panels.php:853
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1048
+msgid "Duration"
+msgstr "مدت"
+
+#: inc/rentit-booking/includes/html-season-date-blank.php:76
+#: inc/rentit-booking/includes/html-season-date.php:95
+#: inc/rentit-booking/includes/rentit-rental-panels.php:881
+msgid "Add discounts"
+msgstr "افزودن تخفیف"
+
+#: inc/rentit-booking/includes/rentit-general-panel.php:22
+msgid "Minimum duration"
+msgstr "حداقل دوره زمانی"
+
+#: inc/rentit-booking/includes/rentit-general-panel.php:30
+msgid "Maximum duration"
+msgstr "حداکثر دوره زمانی"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:14
+msgid "Max rental per block"
+msgstr "حداکثر اجاره در هر بلوک"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:16
+msgid "Amount of maximum rental for each block."
+msgstr "مبلغ حداکثر اجاره برای هر بلوک."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:23
+msgid "Minimum drop in"
+msgstr "حداقل افت اجاره"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:26
+msgid "Min"
+msgstr "حداقل"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:34
+#: inc/rentit-booking/includes/rentit-rental-panels.php:56
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1207
+#: woocommerce/content-single-product.php:247
+msgid "Hours"
+msgstr "ساعت"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:36
+#: inc/rentit-booking/includes/rentit-rental-panels.php:58
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1180
+#: woocommerce/content-single-product.php:244
+msgid "Days"
+msgstr "روزانه - "
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:40
+#: inc/rentit-booking/includes/rentit-rental-panels.php:62
+msgid "into the future"
+msgstr "به سوی آینده"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:45
+msgid "Maximum drop in"
+msgstr "حداکثر افت در"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:48
+msgid "Max"
+msgstr "حداکثر"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:68
+msgid "Schedule"
+msgstr "برنامه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:74
+msgid "Day"
+msgstr "روز"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:75
+msgid "Disabled hour (from)"
+msgstr "ساعت غیرفعال (از)"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:76
+#: inc/rentit-booking/includes/rentit-rental-panels.php:79
+msgid "Leave blank if all hours are available."
+msgstr "اگر تمام ساعت ها در دسترس باشند، خالی بگذارید"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:78
+msgid "Disabled hour (to)"
+msgstr "ساعت غیر فعال (به)"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:81
+msgid "Availability"
+msgstr "دسترسی"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:82
+msgid "Selected day will not available."
+msgstr "خودرو در روز انتخابی شما موجود نمی باشد."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:91
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:92
+msgid "Tuesday"
+msgstr "سه شنبه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:93
+msgid "Wednesday"
+msgstr "چهار شنبه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:94
+msgid "Thursday"
+msgstr "پنج شنبه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:95
+msgid "Friday"
+msgstr "جمعه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:96
+msgid "Saturday"
+msgstr "شنبه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:97
+msgid "Sunday"
+msgstr "یکشنبه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:117
+msgid "Not available"
+msgstr "در دسترس نیست"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:146
+msgid "Drop-in location"
+msgstr "محل تحویل"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:147
+msgid "Drop-off location"
+msgstr "عودت محل"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:165
+#: inc/rentit-booking/includes/rentit-rental-panels.php:219
+msgid "Select drop-in location"
+msgstr "مکان کشیدن را انتخاب کنید"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:190
+#: inc/rentit-booking/includes/rentit-rental-panels.php:243
+msgid "No locations found."
+msgstr "هیچ محلی یافت نشد."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:200
+#: inc/rentit-booking/includes/rentit-rental-panels.php:253
+msgid "Select all"
+msgstr "انتخاب همه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:285
+msgid "Enter a location"
+msgstr "یک مکان را وارد کنید"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:289
+msgid "Coordinates:"
+msgstr "مختصات:"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:294
+msgid "Formatted Address"
+msgstr "فرمت آدرس "
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:325
+msgid "Please fill coordinates"
+msgstr "لطفا مختصات را پر کنید"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:631
+msgid "Base Cost for 1 / day"
+msgstr "حداقل قیمت برای یک روز"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:635
+#: inc/rentit-booking/includes/rentit-rental-panels.php:690
+#: inc/rentit-booking/includes/rentit-rental-panels.php:701
+#: inc/rentit-booking/includes/rentit-rental-panels.php:713
+#: inc/rentit-booking/includes/rentit-rental-panels.php:724
+msgid ""
+"Will be applied regardless of the customer's choices on the booking form."
+msgstr "بدون توجه به انتخاب مشتری در فرم رزرو، اعمال خواهد شد."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:641
+msgid "Sale Price for 1 / day"
+msgstr "قیمت ویژه روزانه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:644
+msgid "Sale Price choices on the booking form."
+msgstr "فروش گزینه های قیمت در فرم رزرو."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:667
+msgid "Subtitle"
+msgstr "زیر عنوان"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:670
+msgid "subtitle"
+msgstr "زیر عنوان"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:677
+msgid "Disable rent"
+msgstr "غیر فعال سازی اجاره"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:680
+msgid "Disable rent sustem for sale car?"
+msgstr "آیا می خواهید سیستم اجاره خودروهای فروشی را غیر فعال کنید؟"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:686
+msgid "Winter Cost "
+msgstr "قیمت زمستانه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:697
+msgid "Spring Cost "
+msgstr "قیمت بهاره"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:709
+msgid "Summer Cost"
+msgstr "قیمت تابستانه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:720
+msgid "Autumn Cost"
+msgstr "قیمت پاییزه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:737
+msgid "Season price"
+msgstr "قیمت فصلی"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:739
+msgid "please insert base day price for custom season date"
+msgstr "لطفا مبلغ پایه روزانه را برای فصل وارد کنید."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:746
+msgid "Base price"
+msgstr "قیمت پایه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:747
+msgid "Start season date"
+msgstr "تاریخ شروع فصل"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:748
+msgid "End season date"
+msgstr "تاریخ پایان فصل"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:749
+#: inc/rentit-booking/includes/rentit-rental-panels.php:842
+msgid "Discounts"
+msgstr "تخفیفات"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:781
+msgid ""
+"Add season date\n"
+msgstr "افزودن تاریخ فصل"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:794
+msgid "Unavailable date"
+msgstr "تاریخ غیرقابل دسترس"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:802
+msgid "End unavailable date"
+msgstr "پایان تاریخ در دسترس نیست"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:829
+msgid ""
+"Add unavailable date\n"
+msgstr "اضافه کردن تاریخ در دسترس نیست"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:843
+msgid ""
+"Example – Segway rental  1 Hour=$30, 3 Hours=$48.                 \n"
+"                (for this select in Cost $30  in  Duration 1 / Hours(s) and "
+"Cost $16  Duration 3 / Hours(s)"
+msgstr ""
+"مثال - اجاره Segway 1 ساعت =0 هزار ، 3 ساعت = مشخص نیست.\n"
+"(برای این انتخاب در هزینه 0 در مدت 1 / ساعت (ثانیه) و هزینه0 مدت 3 / ساعت "
+"(ثانیه)"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:852
+msgid "Cost ("
+msgstr "قیمت ("
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:920
+msgid "Enable Month Percentage Discount"
+msgstr "درصد تخفیف درصد ماه را فعال کنید"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:921
+msgid ""
+"Enable this cause upper part discount dont work and use the such discount "
+"mechanism."
+msgstr ""
+"این دلیل تخفیف بخش بالا را فعال کنید و از مکانیسم تخفیف استفاده کنید.\n"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:927
+msgid "Month Percentage Discount"
+msgstr "درصد تخفیف ماه"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:930
+msgid ""
+"Month percentage discount used to make the price value lower until one month "
+"full"
+msgstr "خفیف برای ماه استفاده می شود تا ارزش قیمت پایین تر تا یک ماه کامل شود"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:984
+msgid "Resources"
+msgstr "منابع"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:990
+msgid "Bulk Resources"
+msgstr "منابع فله"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:997
+msgid "Select resources"
+msgstr "منابع را انتخاب کنید"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1016
+msgid "Flat cost"
+msgstr "هزینه تخت"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1018
+msgid "per "
+msgstr "به ازای"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1025
+msgid "No resources found."
+msgstr "هیچ منابع یافت نشد"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1036
+msgid "Select Resources"
+msgstr "منابع را انتخاب کنید"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1046
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:102
+#: woocommerce/content-single-product.php:552
+#: woocommerce/order/order-details.php:106
+msgid "Quantity"
+msgstr "تعداد"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1049
+msgid "Flat cost?"
+msgstr "هزینه تخت ؟"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1050
+msgid "Single cost with no duration applied."
+msgstr "هزینه تنها با مدت زمان اعمال می شود."
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1077
+msgid "Add Resources"
+msgstr "اضافه کردن منابع"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1086
+msgid "Car year"
+msgstr "مدل خودرو"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1091
+msgid "2015"
+msgstr "1395"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1096
+msgid "Car engine"
+msgstr "نوع موتور"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1106
+msgid "Car Transmission"
+msgstr "نوع دنده"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1115
+msgid "Car Mileage"
+msgstr "کیلومتر مجاز تردد"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1118
+msgid "25000"
+msgstr "25000"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1127
+msgid "Car stars"
+msgstr "میزان محبوبیت"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1152
+msgid "Min rent date"
+msgstr "حداقل مدت اجاره خودرو"
+
+#: inc/rentit-booking/includes/rentit-rental-panels.php:1153
+msgid "Max rent date"
+msgstr "حداکثر مدت اجاره خودرو"
+
+#: inc/rentit-booking/includes/rentit-rental-tab.php:4
+msgid "Cost & Resources"
+msgstr "قیمت ها و منابع"
+
+#: inc/rentit-booking/includes/rentit-rental-tab.php:12
+msgid "Rental Location"
+msgstr "محل های تحویل و عودت"
+
+#: inc/rentit-booking/includes/rentit-rental-tab.php:19
+msgid "Rental Availability"
+msgstr "در دسترس بودن اجاره خودرو"
+
+#: inc/rentit-booking/init.php:19
+msgid "Min Stock quantity"
+msgstr "حداقل تعداد موجودی"
+
+#: inc/rentit-booking/init.php:22
+msgid "Min Stock quantity product"
+msgstr "حداقل تعداد موجودی محصول"
+
+#: inc/widgets/rentit-widget-advanced-search.php:22
+msgid "Display advanced search form.2"
+msgstr "نمایش فرم جستجوی پیشرفته"
+
+#: inc/widgets/rentit-widget-advanced-search.php:24
+#: inc/widgets/rentit-widget-advanced-search.php:28 template-map.php:232
+msgid "Advanced Search"
+msgstr "جستجوی پیشرفته"
+
+#: inc/widgets/rentit-widget-advanced-search.php:29
+#: inc/widgets/rentit-widget-tabbed-post.php:29
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:22
+msgid "Display the tabbed posts in the sidebar."
+msgstr "نمایش پست های tabbed در نوار کناری را نمایش می دهد."
+
+#: inc/widgets/rentit-widget-tabbed-post.php:24
+msgid "Rent It Tabbed Post"
+msgstr "اجاره ماشین برگه پست"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:28
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:33
+msgid "Recent Posts"
+msgstr "پستهای اخیر"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:34
+msgid "Recent Posts title"
+msgstr "عنوان های اخیر پست"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:39
+msgid "Recent Posts Limit"
+msgstr "محدودیت های اخیر"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:43
+msgid "Popular Posts"
+msgstr "نوشته های محبوب"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:44
+msgid "Popular Posts title"
+msgstr "عنوان نوشته های محبوب"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:49
+msgid "Popular Posts Limit"
+msgstr "محدودیت نوشته های محبوب"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:54
+msgid "Insert url to all post"
+msgstr "URL را برای همه پست بگذارید"
+
+#: inc/widgets/rentit-widget-tabbed-post.php:209
+msgid "More Posts"
+msgstr "مطالب بیشتر"
+
+#: inc/woocommerce.php:209 woocommerce/content-single-product.php:903
+msgid "Reservation Now"
+msgstr "رزرو خودرو"
+
+#: inc/woocommerce/content-single-product.php:20
+#: woocommerce/content-single-product.php:69
+msgid "Car Information"
+msgstr "اطلاعات خودرو"
+
+#: meta.php:7 partials/related-post.php:182
+msgid "By "
+msgstr "توسط"
+
+#: meta.php:18
+msgid " Comment"
+msgstr "نظر"
+
+#: meta.php:26
+msgid "Likes"
+msgstr "دوست داشتنی"
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتیجه جستجوی: \"%s\""
+
+#: search.php:35
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: single-portfolio.php:57
+msgid "Project Overview"
+msgstr "بررسی اجمالی پروژه"
+
+#: single-portfolio.php:62
+msgid "Project Details"
+msgstr "جزئیات پروژه"
+
+#: single-portfolio.php:66
+msgid "Skills"
+msgstr "مهارت ها"
+
+#: single-portfolio.php:83
+msgid "Release Date"
+msgstr "تاریخ انتشار"
+
+#: single-portfolio.php:93
+msgid "Older"
+msgstr "قدیمی تر"
+
+#: single-portfolio.php:94
+msgid "Newer"
+msgstr "جدیدتر"
+
+#: single-portfolio.php:98
+msgid "Related project"
+msgstr "پروژه مرتبط"
+
+#: template-coming-soon.php:81
+msgid "Coming soon"
+msgstr "به زودی"
+
+#: template-login.php:50 template-login.php:116
+#: woocommerce/auth/form-login.php:47 woocommerce/global/form-login.php:40
+msgid "Login"
+msgstr "ورود"
+
+#: template-login.php:58
+msgid "Hello, welcome to your account"
+msgstr "سلام به حساب شما خوش آمدید"
+
+#: template-login.php:72 template-login.php:156
+msgid "Sign in with Facebook"
+msgstr "با فیس بوک وارد شوید"
+
+#: template-login.php:83
+msgid " Sign in with Twitter"
+msgstr "ورود با توییتر"
+
+#: template-login.php:92
+msgid "User name or email"
+msgstr "نام کاربری یا رایانامه"
+
+#: template-login.php:99
+msgid "Your password"
+msgstr "پسورد"
+
+#: template-login.php:106 woocommerce/global/form-login.php:43
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+#: template-login.php:112
+msgid "forgot password?"
+msgstr "رمز عبور را فراموش کردید؟"
+
+#: template-login.php:121
+msgid "Hi "
+msgstr "سلام"
+
+#: template-login.php:125 template-map.php:122
+msgid "Logout?"
+msgstr "می خواهید خارج شوید؟"
+
+#: template-login.php:129
+msgid "Create New Account"
+msgstr "ایجاد حساب کاربری جدید"
+
+#: template-login.php:134
+msgid "Create Your Account"
+msgstr "حساب کاربری برای خود بسازید"
+
+#: template-login.php:147
+msgid ""
+"Create\n"
+"                                        Account"
+msgstr "ساخت حساب کاربری"
+
+#: template-map.php:109
+msgid "Sign In"
+msgstr "ورود"
+
+#: template-map.php:115
+msgid "Register"
+msgstr "ثبت نام"
+
+#: template-map.php:142
+msgid "Write Ticket"
+msgstr "ارسال درخواست پشتیبانی"
+
+#: template-map.php:152
+msgid "Find Best Rental Car"
+msgstr "چه خودرویی می خواهید اجاره کنید؟"
+
+#: template-map.php:179
+msgid "Picking Off Location"
+msgstr "محل عودت خودرو"
+
+#: template-map.php:199 woocommerce/content-single-product.php:520
+#: woocommerce/content-single-product.php:575
+#: woocommerce/order/order-details.php:90
+msgid "Picking Up Date"
+msgstr "تاریخ تحویل"
+
+#: template-map.php:214
+msgid "Picking Off Date"
+msgstr "تاریخ عودت"
+
+#: template-map.php:236
+msgid " Find Car"
+msgstr "جستجوی خودرو"
+
+#: template-map.php:246
+msgid "Result Rental Car"
+msgstr "نتیجه جستجوی خودرو"
+
+#: template-product.php:53 woocommerce/archive-product.php:61
+#: woocommerce/single-product.php:46
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "خانه"
+
+#: template-product.php:195 woocommerce/archive-product.php:474
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+"متاسفانه خودرویی یافت نشد! تاریخ یا محل تحویل و عودت خود را تغییر دهید."
+
+#: woocommerce/archive-product.php:383 woocommerce/content-product.php:45
+#: woocommerce/content-single-product.php:16
+#: woocommerce/content-single-product.php:47
+msgid "×"
+msgstr "×"
+
+#: woocommerce/auth/form-grant-access.php:16 woocommerce/auth/form-login.php:22
+#, php-format
+msgid "%s would like to connect to your store"
+msgstr "٪ مایل به اتصال به فروشگاه شما می باشد"
+
+#: woocommerce/auth/form-grant-access.php:20
+#, php-format
+msgid ""
+"This will give \"%s\" <strong>%s</strong> access which will allow it to:"
+msgstr "این به دسترسی٪ s <strong>٪ s </ strong> اجازه خواهد داد که:"
+
+#: woocommerce/auth/form-grant-access.php:30
+#, php-format
+msgid "Logged in as %s"
+msgstr "به عنوان٪ s وارد شده اید"
+
+#: woocommerce/auth/form-grant-access.php:30
+msgid "Logout"
+msgstr "خروج"
+
+#: woocommerce/auth/form-grant-access.php:34
+msgid "Approve"
+msgstr "تایید"
+
+#: woocommerce/auth/form-grant-access.php:35
+msgid "Deny"
+msgstr "انکار"
+
+#. translators: %1$s: app name, %2$s: URL
+#: woocommerce/auth/form-login.php:31
+#, php-format
+msgid ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"<a href=\"%2$s\">cancel and return to %1$s</a>"
+msgstr ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"<a href=\"%2$s\">cancel and return to %1$s</a>"
+
+#: woocommerce/auth/form-login.php:38
+msgid "Username or email address"
+msgstr "نام کاربری یا رایانامه"
+
+#: woocommerce/auth/form-login.php:42 woocommerce/global/form-login.php:31
+msgid "Password"
+msgstr "رمز عبور"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "جمع کل سبد خرید"
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+#: woocommerce/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr "جمع"
+
+#: woocommerce/cart/cart-totals.php:57 woocommerce/cart/cart-totals.php:58
+msgid "Shipping"
+msgstr "نحوه تحویل"
+
+#: woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "estimated for %s"
+msgstr "٪ s تخمین زده شده است"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:78
+#: woocommerce/checkout/review-order.php:17
+#: woocommerce/order/order-details.php:43
+msgid "Product"
+msgstr "محصول"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr "قیمت"
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr "این مورد را حذف کنید"
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr "در عقب سفارش موجود است"
+
+#: woocommerce/cart/cart.php:137
+msgid "Coupon"
+msgstr "کوپن تخفیف"
+
+#: woocommerce/cart/cart.php:142 woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr "کد تخفیف"
+
+#: woocommerce/cart/cart.php:144
+msgid "Apply Coupon"
+msgstr "کوپن تخفیف"
+
+#: woocommerce/cart/cart.php:150
+msgid "Update Cart"
+msgstr "به روز رسانی سبد خرید"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to Checkout"
+msgstr "پرداخت آنلاین"
+
+#: woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"برخی از مسائل مربوط به موارد موجود در سبد خرید شما (در بالا نشان داده شده "
+"است) وجود دارد. لطفا به صفحه سبد خرید بازگردید و قبل از بررسی، این مشکلات را "
+"حل کنید."
+
+#: woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr "بازگشت به صفحه سفارش ها"
+
+#: woocommerce/checkout/form-billing.php:20
+msgid "Billing &amp; Shipping"
+msgstr "تکمیل اطلاعات پیش قراداد"
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing Details"
+msgstr "جزییات صورتحساب"
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "می خواهید حساب کاربری جدید ایجاد کنید؟"
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr "اطلاعات ذیل را تکمیل کنید و حساب کاربری خود را بسازید."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "برای پرداخت صورتحساب باید وارد حساب کاربری خود شوید."
+
+#: woocommerce/checkout/form-checkout.php:46
+msgid "Your order"
+msgstr "سفارش"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "آیا کوپن تخفیف دارید؟"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "برای وارد کردن کد خود اینجا کلیک کنید"
+
+#: woocommerce/checkout/form-coupon.php:29
+msgid "Apply coupon"
+msgstr "کوپن را اعمال کنید"
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr "بازگشت مشتری؟"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "برای ورود کلیک کنید!"
+
+#: woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"اگر قبلا خریداری کرده اید، لطفا جزئیات خود را در جعبه های زیر وارد کنید. اگر "
+"شما یک مشتری جدید هستید، لطفا به صورتحساب & amp؛ بخش حمل و نقل"
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr "به آدرس دیگری بفرستید؟"
+
+#: woocommerce/checkout/form-shipping.php:59
+#: woocommerce/content-single-product.php:800
+#: woocommerce/content-single-product.php:808
+msgid "Additional Information"
+msgstr "اطلاعات و توضیحات اضافی"
+
+#: woocommerce/checkout/payment.php:39
+#: woocommerce/content-single-product.php:687
+msgid "Payments options"
+msgstr "گزینه ها پرداخت"
+
+#: woocommerce/checkout/payment.php:49
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"لطفا جزئیات خود را در بالا ذکر کنید تا روش پرداخت موجود را مشاهده کنید."
+
+#: woocommerce/checkout/payment.php:51
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"با عرض پوزش، درگاه ما هنوز ثبت نشده و ما قادر به پرداخت اینترنتی نیستم برای "
+"رزرو خودرو به شماره 09121010200 تماس حاصل نماید."
+
+#: woocommerce/checkout/payment.php:62
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"از آنجا که مرورگر شما جاوا اسکریپت را پشتیبانی نمی کند یا غیرفعال است، "
+"اطمینان حاصل کنید که شما قبل از قرار دادن سفارش خود بر روی دکمه <em> به روز "
+"رسانی Totals </ em> کلیک کنید. اگر این کار را نکنید، ممکن است بیش از مبلغی "
+"که در بالا ذکر شد، متهم شوید."
+
+#: woocommerce/checkout/payment.php:64
+msgid "Update totals"
+msgstr "بروز رسانی جمع کل"
+
+#: woocommerce/checkout/payment.php:75
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+"&rsquo;ve اینجانب <a href=\"%s\" target=\"_blank\">شرایط و قوانین و "
+"مقررات</a> را به دقت مطالعه کردم و می پذیرم."
+
+#: woocommerce/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+"متاسفانه سفارش شما نمیتواند پردازش شود زیرا بانک مبدأ / تاجر معامله شما را "
+"رد کرده است. لطفا تلاش خود را دوباره انجام دهید\n"
+
+#: woocommerce/checkout/thankyou.php:33 woocommerce/myaccount/orders.php:72
+msgid "Pay"
+msgstr "پرداخت"
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr "حساب کاربری"
+
+#: woocommerce/checkout/thankyou.php:41 woocommerce/checkout/thankyou.php:84
+msgid "Thank you. Your order has been received."
+msgstr ""
+"سپاسگزاریم! سفارش شما دریافت شد در اسرع وقت کارشناسان ما با شما تماس خواهند "
+"گرفت. در صورتی که از طریق کارت به کارت مبلغ را واریز کردید با شماره "
+"02133000100 تماس بگیرید و کد ارجاع واریز خود را اعلام نمایید!"
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Order number:"
+msgstr "شماره رزرو:"
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "Date:"
+msgstr "تاریخ:"
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Email:"
+msgstr "رایانامه:"
+
+#: woocommerce/checkout/thankyou.php:62
+msgid "Total:"
+msgstr "جمع کل:"
+
+#: woocommerce/checkout/thankyou.php:69
+msgid "Payment method:"
+msgstr "روش پرداخت:"
+
+#: woocommerce/content-product.php:9
+msgid "You have not defined pick up date. We set it to today!"
+msgstr "تاریخ تحویل خودرو را تعیین نکردید، تاریخ تحویل برای امروز تنظیم شد."
+
+#: woocommerce/content-product.php:13
+msgid "You have not defined drop off date. We set it to tommorow!"
+msgstr "تاریخ عودت خودرو را تعیین نکردید، تاریخ عودت برای فردا تنظیم شد."
+
+#: woocommerce/content-product.php:33
+msgid "You choose pick up date before today. We set it to today!"
+msgstr ""
+"تاریخ تحویل انتخابی قبل از روز جاری بوده است، تحویل خودرو از امروز برای "
+"امروز تنظیم شد."
+
+#: woocommerce/content-product.php:40
+msgid ""
+"You choose pick up drop off day less than one day. We set it to tommorow!"
+msgstr ""
+"تاریخ انتخابی عودت خودرو قبل از روز جاری است، عودت خودرو برای فردا تنظیم شد."
+
+#: woocommerce/content-single-product.php:17
+#: woocommerce/content-single-product.php:211
+msgid "Notice : "
+msgstr "توجه : "
+
+#: woocommerce/content-single-product.php:18
+#: woocommerce/content-single-product.php:212
+msgid ""
+"Picking on and dropping off date can cause price change. More duration cause "
+"to lower price and less duration cause to raise price the car per day."
+msgstr ""
+"تغییر در تاریخ تحویل و یا عودت خودرو باعث تغییر در قیمت روزانه خواهد شد. "
+"مبلغ روازنه مندرج در این صفحه مبنی بر تاریخ انتخابی اولیه شما می باشد."
+
+#: woocommerce/content-single-product.php:48
+msgid "Product is Out of Stock"
+msgstr "خودروی مورد نظر موجود نمی باشد"
+
+#: woocommerce/content-single-product.php:196
+msgid "Billing Summery"
+msgstr "پیش فاکتور"
+
+#: woocommerce/content-single-product.php:218
+msgid "Note : "
+msgstr "نکته : "
+
+#: woocommerce/content-single-product.php:222
+msgid ""
+"Shipping for any cities except Tehran and Karaj will include extra cost. For "
+"more info refer to "
+msgstr ""
+"تحویل درب منزل یا محل کار در شهرهای تهران وکرج رایگان می باشد. تحویل در "
+"شهرهای دیگر شامل هزینه می باشد. جهت اطلاع از هزینه تحویل در دیگر شهر ها به "
+"برگه "
+
+#: woocommerce/content-single-product.php:223
+msgid "Shipping Price List "
+msgstr " لیست قیمت تحویل خودرو در سایر شهرها "
+
+#: woocommerce/content-single-product.php:224
+msgid ""
+" page. All shipping to other cities will be done by car carrier to save your "
+"allowed odo but the time needed from departure form Tehran to arrival other "
+"cities is in your rental period"
+msgstr ""
+"رجوع نمایید. شایان ذکر است که خودرو از طریق خودروبر ارسال می گردد و از "
+"کیلومتر مجاز تردد شما کسر نمی گردد لیکن از زمان بارگیری اجاره بهای خودرو "
+"محاسبه می گردد."
+
+#: woocommerce/content-single-product.php:231
+msgid "Extras & Frees"
+msgstr "خدمات جانبی"
+
+#: woocommerce/content-single-product.php:616
+msgid " Customer Information"
+msgstr "اطلاعات مشتری"
+
+#: woocommerce/content-single-product.php:625
+msgid "Mr"
+msgstr "آقای"
+
+#: woocommerce/content-single-product.php:629
+msgid "Ms"
+msgstr "خانم"
+
+#: woocommerce/content-single-product.php:635
+msgid "First Name *"
+msgstr "نام *"
+
+#: woocommerce/content-single-product.php:648
+msgid "Last Name *"
+msgstr "نام خانوادگی*"
+
+#: woocommerce/content-single-product.php:662
+msgid "Your Email Address *"
+msgstr "رایانامه *"
+
+#: woocommerce/content-single-product.php:675
+msgid "Phone Number: *"
+msgstr "شماره تماس: *"
+
+#: woocommerce/content-single-product.php:785
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"با عرض پوزش، درگاه ما هنوز ثبت نشده و ما قادر به پرداخت اینترنتی نیستم برای "
+"رزرو خودرو به شماره 09121010200 تماس حاصل نماید."
+
+#: woocommerce/content-single-product.php:859
+msgid "Add to cart"
+msgstr "افزودن به سبد"
+
+#: woocommerce/content-single-product.php:892
+msgid "I accept all information and Payments etc"
+msgstr "صحت مراتب فوق را تایید می کنم و قصد رزرو خودرو با شرایط مندرج را دارم."
+
+#: woocommerce/content-single-product.php:901
+msgid "buy now"
+msgstr "رزرو خودرو (با تخفیف ویژه)"
+
+#: woocommerce/global/form-login.php:27
+msgid "Username or email"
+msgstr "نام کاربری / رایانامه"
+
+#: woocommerce/global/form-login.php:47
+msgid "Lost your password?"
+msgstr "رمز ورود خود را فراموش کرده اید؟"
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr "هیچ محصولی مطابق با انتخاب شما یافت نشد."
+
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr "مشخصات رزرو کننده"
+
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr "آدرس جهت دریافت"
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "آدرس های زیر به صورت پیش فرض در صفحه پرداخت استفاده می شود."
+
+#: woocommerce/myaccount/my-address.php:51 woocommerce/myaccount/orders.php:84
+msgid "Edit"
+msgstr "ویرایش"
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "شما هنوز این نوع آدرس را آماده نکرده اید."
+
+#: woocommerce/myaccount/orders.php:31
+msgid "Your orders"
+msgstr "سفارش ها"
+
+#: woocommerce/myaccount/orders.php:55
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/myaccount/orders.php:65
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "٪ s برای موارد٪ s"
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:76
+msgid "View"
+msgstr "نمایش"
+
+#: woocommerce/myaccount/orders.php:80
+msgid "Cancel"
+msgstr "انصراف"
+
+#: woocommerce/myaccount/orders.php:132
+msgid "Go Shop"
+msgstr "برو بخش اجاره خودرو"
+
+#: woocommerce/myaccount/orders.php:134
+msgid "No order has been made yet."
+msgstr "هیچ نظری هنوز ساخته نشده است."
+
+#: woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr "رزرو مجدد"
+
+#: woocommerce/order/order-details-customer.php:33
+msgid "Billing address"
+msgstr "مشخصات رزرو کننده"
+
+#: woocommerce/order/order-details-customer.php:36
+#: woocommerce/order/order-details-customer.php:54
+msgid "N/A"
+msgstr "موجود نیست"
+
+#: woocommerce/order/order-details-customer.php:52
+msgid "Shipping address"
+msgstr "آدرس تحویل"
+
+#: woocommerce/order/order-details.php:38
+msgid "Order Details"
+msgstr "جزییات رزروخودرو"
+
+#: woocommerce/order/order-details.php:81
+msgid "Edit order"
+msgstr "ویرایش سفارش"
+
+#: woocommerce/order/order-details.php:124
+msgid "update"
+msgstr "به روز رسانی"
+
+#: woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+"سفارش #٪ s که ساخته شده٪ s دارای وضعیت & ldquo؛٪ s & rdquo؛\n"
+
+#: woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr "و تکمیل شد"
+
+#: woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr "پیش"
+
+#: woocommerce/order/tracking.php:26
+msgid "Order Updates"
+msgstr "سفارش به روز رسانی"
+
+#: woocommerce/order/tracking.php:33
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "٪ s برای٪ s"
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr "نظرات"
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "هنوز رتبه دهی نشده است"
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "یک بررسی اضافه کنید"
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr "اولین نفری باشید که برای بررسی است"
+
+# خ
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "پاسخ به %s"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr "ذخیره"
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "برای ارسال نظر می بایست <a href=\"%s\">وارد حساب کاربری</a> خود شوید."
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your Rating"
+msgstr "امتیاز دهی"
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Rate&hellip;"
+msgstr "نرخ دیگر & hellip؛"
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Perfect"
+msgstr "کامل"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Good"
+msgstr "خوب"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Average"
+msgstr "میانگین"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Not that bad"
+msgstr "نه خیلی بد"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Very Poor"
+msgstr "خیلی بد"
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your Review"
+msgstr "نظر"
+
+#: woocommerce/single-product-reviews.php:99
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "تنها مشتریانی که این محصول را خریداری کرده اند می توانید وارد شوید."
+
+#: woocommerce/single-product/rating.php:26
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "رتبه 5٪ از٪"
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "out of %s5%s"
+msgstr "خارج از٪ s5٪ s"
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] "based on %s customer ratings"
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:32
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "بررسی مشتری٪"
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "محصولات مرتبط"
+
+#: woocommerce/single-product/sale-flash.php:20
+msgid "Sale!"
+msgstr "تخفیف ویژه!"
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr "موارد مشابه دیگر!"
+
+#. Theme Name of the plugin/theme
+msgid "RentIt"
+msgstr "کرایه ماشین"
+
+#. Description of the plugin/theme
+msgid "Car Rental Template"
+msgstr "قالب اجاره خودرو"
+
+#. Author of the plugin/theme
+msgid "Victor Lerner"
+msgstr "ویکتور لرنر"
